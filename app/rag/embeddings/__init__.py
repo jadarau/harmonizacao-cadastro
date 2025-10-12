@@ -1,0 +1,1 @@
+"""Embeddings module for document and query vector representations."""

@@ -1,0 +1,1393 @@
+{
+  "doc_4f6f16a6df5af8c831c536bafdb2831c": {
+    "id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+    "metadata": {
+      "filename": "material_leads_crm.md",
+      "file_size": 5228,
+      "content_type": "text/plain",
+      "uploaded_at": "2025-10-10T18:12:22.395621",
+      "processed_at": "2025-10-10T18:12:50.569534",
+      "source_path": null,
+      "tags": [],
+      "custom_metadata": {
+        "tags": [
+          "leads",
+          "clientes"
+        ],
+        "author": "Jadson Araujo",
+        "department": "TI"
+      }
+    },
+    "status": "indexed",
+    "chunks": [
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_0",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "# Guia Completo: Leads e CRM para Capta\u00e7\u00e3o de Clientes## 1. O que s\u00e3o Leads?\n\n- **Lead** \u00e9 um potencial cliente que demonstrou interesse no seu produto ou servi\u00e7o (ex: preencheu um formul\u00e1rio, clicou em um an\u00fancio, baixou um material).\n- Leads s\u00e3o a base do funil de vendas: toda venda come\u00e7a com a capta\u00e7\u00e3o e qualifica\u00e7\u00e3o de leads.\n\n### Tipos de Leads\n\n- **Lead Frio:** Demonstrou pouco interesse, sabe pouco sobre sua solu\u00e7\u00e3o.\n- **Lead Morno:** Mostrou interesse, mas ainda est\u00e1 em fase de aprendizado.\n- **Lead Quente:** Pronto para ser abordado por vendas.\n\n### Como captar Leads?\n\n- Formul\u00e1rios em site/blog\n- Landing Pages com ofertas (e-books, webinars, cupons)\n- M\u00eddias sociais (Facebook, Instagram, LinkedIn)\n- Indica\u00e7\u00f5es de clientes atuais\n- Feiras, eventos e networking\n- Parcerias estrat\u00e9gicas\n\n---\n\n## 2. O que \u00e9 CRM?",
+        "chunk_index": 0,
+        "start_char": 0,
+        "end_char": 830,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      },
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_1",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "- **CRM (Customer Relationship Management)** \u00e9 um sistema ou conjunto de pr\u00e1ticas para gerenciar o relacionamento com clientes e leads.\n- Pode ser um software (como Pipedrive, HubSpot, Salesforce) ou um processo estruturado.### Benef\u00edcios do CRM:\n\n- Organiza todos os contatos e hist\u00f3ricos de intera\u00e7\u00e3o.\n- Acompanha oportunidades e funil de vendas.\n- Ajuda a n\u00e3o perder follow-ups e aumenta a produtividade.\n- Facilita an\u00e1lise de dados para tomadas de decis\u00e3o.\n\n---\n\n## 3. Boas Pr\u00e1ticas para Gest\u00e3o de Leads e CRM\n\n### 3.1. Qualifica\u00e7\u00e3o de Leads\n\n- Crie crit\u00e9rios claros: perfil do cliente ideal (ICP), interesse, momento de compra.\n- Use perguntas-chave nos formul\u00e1rios (ex: tamanho da empresa, cargo, necessidade).\n- Classifique os leads (frio, morno, quente) e atualize constantemente.\n\n### 3.2. Registro de Informa\u00e7\u00f5es\n\n- Todas as intera\u00e7\u00f5es devem ser registradas no CRM: liga\u00e7\u00f5es, e-mails, reuni\u00f5es, feedback.\n- Evite depender de planilhas soltas ou anota\u00e7\u00f5es pessoais.",
+        "chunk_index": 1,
+        "start_char": 830,
+        "end_char": 1804,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      },
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_2",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "### 3.3. Automa\u00e7\u00e3o e Follow-up- Configure lembretes autom\u00e1ticos para retornos e acompanhamento.\n- Utilize automa\u00e7\u00e3o para envio de e-mails e conte\u00fados relevantes.\n- Nunca deixe um lead sem resposta \u2014 velocidade aumenta convers\u00e3o.\n\n### 3.4. Nutri\u00e7\u00e3o de Leads\n\n- Envie informa\u00e7\u00f5es \u00fateis (e-books, artigos, cases) para educar seus leads.\n- Use campanhas de e-mail marketing segmentadas.\n\n### 3.5. An\u00e1lise de Resultados\n\n- Monitore m\u00e9tricas: taxas de convers\u00e3o, tempo m\u00e9dio de venda, origem dos melhores leads.\n- Ajuste estrat\u00e9gias conforme o desempenho.\n\n---\n\n## 4. Fluxo de Sucesso: Da Capta\u00e7\u00e3o ao Fechamento\n\n### Exemplo de Fluxo de Capta\u00e7\u00e3o e Gest\u00e3o de Leads",
+        "chunk_index": 2,
+        "start_char": 1804,
+        "end_char": 2461,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      },
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_3",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "1. **Atra\u00e7\u00e3o:** Lead chega por formul\u00e1rio no site.\n2. **Registro:** Lead \u00e9 automaticamente cadastrado no CRM.\n3. **Qualifica\u00e7\u00e3o:** Comercial analisa perfil e interesse.\n4. **Primeira abordagem:** E-mail ou liga\u00e7\u00e3o para entender necessidade.\n5. **Nutri\u00e7\u00e3o:** Caso ainda n\u00e3o esteja pronto, envia materiais de apoio.\n6. **Oportunidade:** Lead demonstra interesse concreto \u2014 vira uma oportunidade.\n7. **Negocia\u00e7\u00e3o:** Proposta, reuni\u00f5es, negocia\u00e7\u00e3o de valores.\n8. **Fechamento:** Venda realizada.\n9. **P\u00f3s-venda:** Continua\u00e7\u00e3o do relacionamento via CRM.---\n\n## 5. Exemplos Pr\u00e1ticos\n\n### Exemplo 1: Uso de CRM para Capta\u00e7\u00e3o\n\n- **Situa\u00e7\u00e3o:** Uma empresa recebe 30 leads por semana via site.\n- **A\u00e7\u00e3o:** Todos os leads v\u00e3o automaticamente para o CRM (ex: HubSpot).\n- **Processo:** Vendedor recebe alerta, faz o primeiro contato em at\u00e9 24h.\n- **Resultado:** Aumento de convers\u00e3o de 10% para 20% ao m\u00eas.\n\n### Exemplo 2: Nutri\u00e7\u00e3o de Leads",
+        "chunk_index": 3,
+        "start_char": 2461,
+        "end_char": 3388,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      },
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_4",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "- **Situa\u00e7\u00e3o:** Leads baixam um e-book sobre marketing digital.\n- **A\u00e7\u00e3o:** CRM dispara sequ\u00eancia automatizada de e-mails com dicas e cases.\n- **Processo:** A cada intera\u00e7\u00e3o, lead \u00e9 reclassificado (frio/morno/quente).\n- **Resultado:** Leads mais preparados e maior taxa de fechamento.### Exemplo 3: Follow-up Automatizado\n\n- **Situa\u00e7\u00e3o:** Lead pediu proposta e n\u00e3o respondeu.\n- **A\u00e7\u00e3o:** CRM agenda e envia lembrete autom\u00e1tico ap\u00f3s 3 dias.\n- **Resultado:** Forte redu\u00e7\u00e3o em leads \u201cesquecidos\u201d e mais neg\u00f3cios recuperados.\n\n---\n\n## 6. Ferramentas de CRM Recomendadas\n\n- **Gratuitas:** HubSpot CRM, Bitrix24, Zoho CRM (planos b\u00e1sicos)\n- **Pagas:** Pipedrive, Salesforce, RD Station CRM\n\n---\n\n## 7. Dicas Finais\n\n- Treine seu time para usar o CRM corretamente.\n- Revise e limpe sua base de leads periodicamente.\n- Integre CRM com outros sistemas (e-mail, WhatsApp, redes sociais).\n- Use relat\u00f3rios para identificar gargalos e oportunidades de melhoria.\n\n---\n\n## 8. Checklist para Implanta\u00e7\u00e3o de CRM",
+        "chunk_index": 4,
+        "start_char": 3388,
+        "end_char": 4383,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      },
+      {
+        "id": "doc_4f6f16a6df5af8c831c536bafdb2831c_chunk_5",
+        "document_id": "doc_4f6f16a6df5af8c831c536bafdb2831c",
+        "content": "1. Escolha a ferramenta ideal para seu porte/necessidade.\n2. Mapeie todo o processo comercial (do lead ao fechamento).\n3. Implemente campos obrigat\u00f3rios para cadastro de leads.\n4. Treine todos os envolvidos.\n5. Estabele\u00e7a rotinas de atualiza\u00e7\u00e3o e acompanhamento.\n6. Mensure resultados e ajuste processos sempre que necess\u00e1rio.---\n\n## 9. Conclus\u00e3o\n\nUma boa gest\u00e3o de leads, aliada ao uso eficiente do CRM, \u00e9 o segredo para aumentar vendas de forma previs\u00edvel e escal\u00e1vel.  \nOrganiza\u00e7\u00e3o, automa\u00e7\u00e3o e acompanhamento s\u00e3o os pilares do sucesso comercial moderno.\n\n---\n\n**Precisa de templates, fluxos visuais ou exemplos de e-mails para abordagem de leads? Pe\u00e7a e envio para voc\u00ea!**",
+        "chunk_index": 5,
+        "start_char": 4383,
+        "end_char": 5059,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "leads",
+            "clientes"
+          ],
+          "author": "Jadson Araujo",
+          "department": "TI"
+        }
+      }
+    ]
+  },
+  "doc_5ad8a1012d75b36efd808b1c4cbc61ba": {
+    "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+    "metadata": {
+      "filename": "PRINCIPAIS PROCEDIMENTOS EST\u00c9TICOS REALIZADOS EM JOVENS E POSS\u00cdVEIS INTERCORR\u00caNCIAS.pdf",
+      "file_size": 326166,
+      "content_type": "application/pdf",
+      "uploaded_at": "2025-10-10T18:14:27.511234",
+      "processed_at": "2025-10-10T18:14:29.125715",
+      "source_path": null,
+      "tags": [],
+      "custom_metadata": {
+        "tags": [
+          "estetica",
+          "harmonizacao",
+          "facial"
+        ],
+        "author": "Jo\u00e3o Paulo R Lima",
+        "department": "ODONTO"
+      }
+    },
+    "status": "indexed",
+    "chunks": [
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_0",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " \n1 \n \n                                              \nPONTIF\u00cdCIA UNIVERSIDADE CAT\u00d3LICA DE GOI\u00c1S  \nESCOLA DE CI\u00caNCIAS M\u00c9DICAS E DA VIDA  \n                                            CURSO DE BIOMEDICINA  \n \n \n  \n \nPRINCIPAIS  PROCEDIMENTOS EST\u00c9TICOS REALIZADOS EM  JOVENS \nE POSS\u00cdVEIS INTERCORR\u00caNCIAS  \n  \n \n \nMARIA EDUARDA COSTA CAETANO  \nMARIA EDUARDA DOMINGOS VIEIRA  \n \n \n \n \n \n \n \nGOI\u00c2NIA  ",
+        "chunk_index": 0,
+        "start_char": 0,
+        "end_char": 394,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_1",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "\n \n2 \n \n2024 \nMARIA EDUARDA COSTA CAETANO  \nMARIA EDUARDA DOMINGO S VIEIRA  \n \n \n \nPRINCIPAIS PROCEDIMENTOS EST\u00c9TICOS REALIZADOS EM JOVENS \nE POSS\u00cdVEIS INTERCORR\u00caNCIAS  \n \n \n \n \nTrabalho de Conclus\u00e3o de Curso a ser \napresentado \u00e0 banca examinadora da \nPontif\u00edcia Universidade Cat\u00f3lica de Goi\u00e1s \ncomo um dos pr\u00e9 -requisitos para obten\u00e7\u00e3o do \nt\u00edtulo de Bacharel em Ci\u00eancias Biol \u00f3gicas \u2013 \nModalidade M\u00e9dica.  \n             \nOrientadora: Prof. Ms. Fl\u00e1via Martins \nNascente           \n                       \nBANCA EXAMINADORA  \n \nOrientador(a): Prof. Ms. Fl\u00e1via Martins Nascente                                   \nExaminador 1:   ",
+        "chunk_index": 1,
+        "start_char": 394,
+        "end_char": 1021,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_2",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 3 \n \nExaminador 2:  \n \nRESUMO  \nA busca por procedimentos est\u00e9ticos invasivos e/ou minimamente invasivos est\u00e1 cada vez \nmaior entre os jovens, baseando -se nas insatisfa\u00e7\u00f5es que v\u00e3o su rgindo no transcorrer da vida. \nEles revelam o desejo de mudar a imagem para melhorar a autoestima, atingir satisfa\u00e7\u00e3o  e bem \nestar f\u00edsico e me ntal. A cada dia \u00e9 um novo produto, uma nova tend\u00eancia, uma nova t\u00e9cnica. \nEste estudo  trata-se de uma revis\u00e3o narra tiva da literatura , tendo como o bjetivo analisar os \nprincipais procedimentos est\u00e9ticos procurados pelos jovens , seus impactos  na autoestima e \nposs\u00edveis intercorr\u00eancias. O s procedimentos mais procurados pelos jovens s\u00e3o: toxina \nbotul\u00ednica, preenchedores, peeling s, fios de tra\u00e7\u00e3o, \u00e1cido polil\u00e1tico  e polimetilmetacrilato.  \nPara que os procedimentos est\u00e9ticos possam oferecer melhorias vis\u00edveis na apar\u00eancia, \u00e9 crucial \nque os jovens estejam ciente s dos riscos envolvidos, como rea\u00e7\u00f5es adversas, in fec\u00e7\u00f5es e ",
+        "chunk_index": 2,
+        "start_char": 1021,
+        "end_char": 1989,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_3",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "insatisfa\u00e7\u00e3o com os resultados. \u00c9 necess \u00e1ria uma abordagem cautelosa e informada  ao considerar tais interven\u00e7\u00f5es, incluindo a consulta a profissionais qualificados e a avalia\u00e7\u00e3o dos \nriscos versus benef\u00edcios para cada paciente individualmente.  \nPalavras -chave: padr\u00e3o de beleza, jovens, autoestima, procedimentos  est\u00e9ticos , \nintercorr\u00eancias.  \n \n \n \n \n \n \n \n \n \n ",
+        "chunk_index": 3,
+        "start_char": 1989,
+        "end_char": 2358,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_4",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 4 \n \n \n \n \nABSTRACT  \nThe search for invasive and/or minimally invasive aesthetic procedures is increasing among \nyoung people, based on dissatisfaction that arises throughout life. They reveal like never \nbefore the desire to change their image to improve self -esteem, achieve satisfaction and \nphysical and mental well -being. Every day is a new product, a new trend, a new technique. \nThis stud y is a narrative review of the literature, aiming to analyze the main aesthetic \nprocedures sought by young people, their impacts on self -esteem and possible complications. \nThe procedures most sought after by young people are: botulinum toxin, fillers, peel ings, \ntraction threads, polylactic acid and polymethyl methacrylate. For aesthetic procedures to offer \nvisible improvements in appearance, it is crucial that young people are aware of the risks \ninvolved, such as adverse reactions, infections and dissatisfa ction with the results. A cautious ",
+        "chunk_index": 4,
+        "start_char": 2358,
+        "end_char": 3313,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_5",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "and informed approach is needed when considering such interventions, including consultation with qualified professionals and assessment of risks versus benefits for each individual patient.  \nKeywords: beauty standards, you ng people, self -esteem, aesthetic procedures, complications.  \n \n \n \n \n \n \n \n \n \n \n ",
+        "chunk_index": 5,
+        "start_char": 3313,
+        "end_char": 3622,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_6",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 5 \n \n \n \n \n \n \n1- INTRODU\u00c7\u00c3O  \nA busca por procedimentos est\u00e9ticos est\u00e1 cada vez maior entre os jovens , baseando -se \nnas insatisfa\u00e7\u00f5es que v\u00e3o surgindo no transcorrer da vida. Eles revelam como nunca o desejo \nde mudar a imagem  para melhorar a autoestima, atingir satisfa\u00e7\u00e3o,  mesmo podendo ocorrer  \nposs\u00edveis exageros ou at\u00e9 mesmo frustra\u00e7\u00f5es com os resultados atingidos  (BARROS, 2022).  \nCom o advento da internet , revolu\u00e7\u00e3o digital e  redes sociais, o crescimento subjetivo \nde blogueiras e influencers, ressalta a distor\u00e7\u00e3o da pr\u00f3pria imagem, potencializa da por filtros \ne efeitos da m\u00eddia . Com todo o bombarde io de propagandas com homens e mulheres \npertencentes a um padr\u00e3o de beleza idealizado, muitas pessoas sonham com a  realiza\u00e7\u00e3o de \nprocedimentos est\u00e9ticos (SOUZA E SILVA , 2017). Diante de muita procura, a  est\u00e9tica \u00e9 um \nramo que n\u00e3o se submete apenas na quest\u00e3o da vaidade  como muitos dizem, e sim, na quest\u00e3o ",
+        "chunk_index": 6,
+        "start_char": 3622,
+        "end_char": 4560,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_7",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "de sa\u00fade tanto f\u00edsica, quanto mental  (GOUVEIA et al, 2005).  Atualmente, as rela\u00e7\u00f5es entre as pessoas est\u00e3o cada vez mais ef\u00eameras, sendo a \nimpress\u00e3o f\u00edsica  um importante julgamento nas intera\u00e7\u00f5es sociais. ( FERRAZ, SERRALTA , \n2007).  Dependendo do n\u00edvel de exig\u00eancia com a autoimagem, a busca pelo corpo perfeito \ntamb\u00e9m pode trazer preju\u00edzos e sofrimento.  Entre os poss\u00edveis impactos, os jovens pod em \napresentar: transtorno alimentar, transtorno dism\u00f3rfico corporal, depress\u00e3o , ansiedade e at\u00e9  \nsuic\u00eddio  (HOSPITAL SANTA M\u00d4NICA, 2022). Nas \u00faltimas d\u00e9cadas do s\u00e9culo XX, o \naumento de casos de dist\u00farbios depressivos, pode estar relacionado com a padroniza\u00e7\u00e3o \nest\u00e9tica. H\u00e1 u ma preocupa\u00e7\u00e3o muito grande pelo f\u00edsico sem se importar com o caminho a \npercorrer (ANJOS  & FERREIRA, 2021).  \nA idealiza\u00e7\u00e3o de muitos pacientes espelhadas em m\u00eddias, faz com que a demanda por \nprocedimentos invasivos e/ou minimamente invasivos aumente, buscando ent\u00e3o a qualifica\u00e7\u00e3o ",
+        "chunk_index": 7,
+        "start_char": 4560,
+        "end_char": 5531,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_8",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "e a melhoria de produtos e t\u00e9cnicas na harmoniza\u00e7\u00e3o da imagem vi sual. (ALGHONAIM et al., 2019). \u00c9 relevante  que os jovens reflitam sobre a busca incessante  pelos padr\u00f5es de beleza ",
+        "chunk_index": 8,
+        "start_char": 5531,
+        "end_char": 5714,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_9",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 6 \n \nimpostos e tenham conhecimento dos riscos de intercorr\u00eancias que podem surgir no decorrer \ndos procedimentos  (BRUGIOLO  et. al., 2022 ).  \nDiante do exposto, cuidar da autoestima atrav\u00e9s de procedimentos est\u00e9ticos \u00e9 uma \nalternativa , por\u00e9m, para a manuten\u00e7\u00e3o da sa\u00fade f\u00edsica e mental do ser humano, \u00e9 preciso  \nrespeitar o corpo e limites do bi\u00f3tipo f\u00edsico e gen\u00e9tica  (BODANESE, PADILHA, 2017).  \nAssim, o objetivo deste estudo foi analisar  os principais proc edimentos est\u00e9ticos procurados \npelos jovens , seus impactos  e poss\u00edveis intercorr\u00eancias.  \n \n \n2- METODOLOGIA  \nTrata -se de uma revis\u00e3o bibliogr\u00e1fica narrativa, com base de dados virtuais: BVS \n(Biblioteca Virtual em Sa\u00fade) , Lilacs (Literatura Latino -americana e do Caribe em Ci\u00eancias \nda Sa\u00fade), SciELO (Scientific Electronic Library On -line), PubMed e Goog le Acad\u00eamico, \nbem como cap\u00edtulos de livros e outros s\u00edtios eletr\u00f4nicos, publicados no per\u00edodo de  2001 a ",
+        "chunk_index": 9,
+        "start_char": 5714,
+        "end_char": 6655,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_10",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "2024. Foram utilizados os seguintes Descritores em Ci\u00eancias da Sa\u00fade (DeCS): autoestima, envelhecimento da pele, procedimento est\u00e9tico . Os crit\u00e9rios de inclus\u00e3o foram textos em \nportugu\u00eas e ingl\u00eas, dispon\u00edveis na \u00edntegra, que apresentaram conte\u00fados compat\u00edveis com os \nobjetivos reportados. Os crit\u00e9rios de exclus\u00e3o foram artigos cient\u00edficos n\u00e3o dispon\u00edveis na \n\u00edntegra e que n\u00e3o foram enquadrad os aos objetivos deste estudo.  \n \n \n \n \n \n \n \n \n ",
+        "chunk_index": 10,
+        "start_char": 6655,
+        "end_char": 7102,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_11",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 7 \n \n \n \n \n \n \n \n \n \n3- RESULTADOS E DISCUSS\u00c3O  \n \nHIST\u00d3RICO DO CONCEITO DE BELEZA E PADR\u00d5ES DE BELEZA EXIGIDOS \nNA SOCIEDADE  \nDe acordo com os dicion\u00e1rios, beleza significa qualidade, propriedade, car\u00e1ter ou \nvirtude do que \u00e9 belo . Na Gr\u00e9cia Antiga , o belo  por s\u00e9culos foi associado ao homem e n\u00e3o a \nmulher  (SENNET,  2001 ). Plat\u00e3o associava o Belo ao Bem, \u00e0 verdade, e afirmava que a beleza \n\u00e9 sinal de uma ordem superior. Desse conceito \u00e9 que nasce a cren\u00e7a de que a beleza, para os \ngrego s, era tamb\u00e9m uma quest\u00e3o moral, onde a beleza externa \u00e9 associada \u00e0 interna e, mais \nque isso, a uma intelig\u00eancia. Ent\u00e3o, uma bela apar\u00eancia, para estes, representava um grande \ncar\u00e1ter  (BAGNOLI,  2020).  \nPara Arist\u00f3teles, a beleza estava preferencialmente relacionada \u00e0 grandiosidade, \u00e0 \nordem, \u00e0 propor\u00e7\u00e3o e \u00e0 harmonia das formas. Nos s\u00e9culos seguintes, os padr\u00f5es de beleza \nrefletem outras din\u00e2micas sociais e quest\u00f5es culturais. Eles mudam, se transformam, se ",
+        "chunk_index": 11,
+        "start_char": 7102,
+        "end_char": 8070,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_12",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "reorganizam e criam convic\u00e7\u00f5es  (BAGNOLI,  2020 ).  A obrigatoriedade de estar sempre bela fez com que ocorresse uma revolu\u00e7\u00e3o da \ncosm\u00e9tica . Atualmente h\u00e1 um grande foco em an\u00fancios  na cultura da est\u00e9tica e dos cuidados \ncom a apar\u00eancia  com uso de  produtos  cosm\u00e9ticos . Em consequ\u00eancia dessa publicidad e, \nobservou -se ao longo dos anos um aumento de sal\u00f5es de bele za, procura por cirurgias \npl\u00e1sticas , procedimentos n\u00e3o invasivos ou minimamente invasivos  (ANJOS & FERREIRA, \n2021).  ",
+        "chunk_index": 12,
+        "start_char": 8070,
+        "end_char": 8564,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_13",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 8 \n \n\u00c9 not\u00f3rio que hoje em dia temos alguns par\u00e2metros sobre o padr\u00e3o de beleza na \nsociedade. Nas redes sociais, por exemplo, \u00e9 comum ver influencers/blogueiras mostra ndo \nconte\u00fados relacionados a produtos de beleza, ao corpo, cabelo, o que frequentemente acaba \ndeixando seus seguidores mais vulner\u00e1veis  (SANTOS ,2020) .  \nSegundo K LEINSCHMID T et. al. (2021), os padr\u00f5es de corpos s\u00e3o buscados por esses \njovens sem as considera\u00e7\u00f5es da sa\u00fade e particularidade , ocorre ndo ainda uma descrimina\u00e7\u00e3o \nsocial criada por padr\u00f5es est\u00e9ticos rigorosos e distorcid os que geram uma busca insaci\u00e1vel por \naceita\u00e7\u00e3o .  Infelizmente muitas  pessoas come\u00e7aram a ficar doentes, com ansiedade, depress\u00e3o, \ndist\u00farbios alimentares e dist\u00farbios de imagem, atrav\u00e9s dessa busca pelo padr\u00e3o de beleza, \nprocedimentos invasivos  ((\u00e1cido hialur\u00f4nico, \u00e1cido polil\u00e1tico, fios de tra\u00e7\u00e3o , \npolimetilmetacrilato ) n\u00e3o invasivos  (peeling qu\u00edmico , toxina botul\u00ednica ). (ANJOS  & \nFERREIRA , 2021).  ",
+        "chunk_index": 13,
+        "start_char": 8564,
+        "end_char": 9543,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_14",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "A procura por procedimentos est\u00e9ticos por mulheres e homens de faixas et\u00e1rias vari\u00e1veis  vem aumentando , \u00e9 uma corrida contra o tempo e a cada dia surgem novos produtos,  \nnovos tratamento s est\u00e9tico s de acordo com cada inova\u00e7\u00e3o e tecnologia. (ANJOS ; FERREIRA , \n2021) . Para SANTOS (2020), \u00e9 fundamental ter mais pesquisas cient\u00edficas com intuito de \nressaltar a import\u00e2ncia da terapia e apoio emocional, promover  o empoderamento para \nenfrent ar a sociedade  e interromper imposi\u00e7\u00f5es  de padr\u00f5es de beleza.  \n \nPROCEDIMENTOS EST\u00c9TICOS E AUTOESTIMA  \nSegundo SCHULTHEISZ & APRILE (2013), a autoestima \u00e9 considerada importante \nindicador de sa\u00fade mental por intervir nas condi\u00e7\u00f5es afetivas, sociais e psicol\u00f3gicas do \nindiv\u00edduo, ou seja, influ\u00eancia nas decis\u00f5es da pessoa . Diante dos fatos te\u00f3ricos existem \nconceitos sobre a est\u00e9tica e a autoestima, tendo como objetivo mostrar como a influ\u00eancia da \napar\u00eancia da imagem pessoal interfere no emocional das pessoas, com isso comprovando a ",
+        "chunk_index": 14,
+        "start_char": 9543,
+        "end_char": 10536,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_15",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "rela\u00e7\u00e3o da est\u00e9tica com a autoestima na sociedade (FLORIANI , 2010).  O trabalho dos profissionais da \u00e1rea de  est\u00e9tica aumentou nos \u00faltimos anos e o p\u00fablico \nest\u00e1 cada vez mais exigente em rela\u00e7\u00e3o a apar\u00eancia de corpo. S\u00e3o v\u00e1rias possibilidades de \nprocedimentos que podem melhorar a autoestima (SOUZA, 2020).  A realiza\u00e7\u00e3o de \ntratamentos est\u00e9ticos, associados a pr\u00e1ticas de e xerc\u00edcios, dietas,  uso de cosm\u00e9ticos , ajudam \nno embelezamento  e podem  fazer com que o indiv\u00edduo se sinta satisfeito com seu corpo . \nSTREHLAU  et. al. ( 2015), realizou um estudo  mostrando que quanto maior  o grau de vaidade ",
+        "chunk_index": 15,
+        "start_char": 10536,
+        "end_char": 11146,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_16",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 9 \n \nde uma mulher , maior ser\u00e1 o uso de cosm\u00e9ticos, de cuidados di\u00e1rios com a pele  e da busca por \nprocedimentos est\u00e9ticos .  \n  \nPRINCIPAIS PROCEDIMENTOS EST\u00c9TICOS BUSCADOS PELOS JOVENS  \nPara MANTELAT O & SANTOS  (2023 ), os procedimentos est\u00e9ticos podem ser \ndivididos em duas categorias principais: invasivos e n\u00e3o invasivos. Eles abrangem diversas \npartes do corpo, como rosto e cabelo, e podem ser prolongados por v\u00e1rios profissionais de \nsa\u00fade, incluindo cirurgi\u00f5es pl\u00e1sticos, dermatologistas, biom\u00e9dicos, enfermeiros, \nfarmac\u00eauticos e odont\u00f3logos.  \nDe acordo com o Censo da Sociedade Brasileira de Cirurgia Pl\u00e1stica (SBCP) em 2018, \nos procedimentos mais procurados foram: toxina botul\u00ednica, preenchedores, peeling , \nsuspens\u00e3o de fios, \u00e1cido polil\u00e1tico, microagulhamento, laser, dermo abras\u00e3o, luz pulsada, \nradiofrequ\u00ea ncia, carboxiterapia, ultrassom microfocado  e crioteria.  \nPara M ANTELATO  & SANTOS  (2023 ), o avan\u00e7o tecnol\u00f3gico na \u00e1rea de est\u00e9tica ",
+        "chunk_index": 16,
+        "start_char": 11146,
+        "end_char": 12116,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_17",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "trouxe consigo procedimentos mais avan\u00e7ados e seguros. No entanto, a press\u00e3o para atender aos padr\u00f5es est\u00e9ticos globais tem impulsionado a dissemina\u00e7\u00e3o de procedimentos n\u00e3o \nregulamentados, muitas vezes mais acess\u00edv eis, aumentando os riscos para a seguran\u00e7a e a \nsa\u00fade dos pacientes.  \n \nToxina botul\u00ednica tipo A \nA Toxina Botul\u00ednica \u00e9 uma subst\u00e2ncia produzida pela bact\u00e9ria  anaer\u00f3bica gram -\npositiva, Clostridium botulinum .  A descoberta dessa bact\u00e9ria ocorreu em 1895, quando um \nsurto de botulismo foi registrado . A toxina botul\u00ednica tipo \u201cA\" (TBA) \u00e9 a mais utilizada desde \nque foi aprovada pelo Food and Drug Administration (FDA) em 2002. Existem v\u00e1rios tipos \nde toxinas, de A a G, com a toxina do tipo A sendo a mais comum e popular na \u00e1rea est\u00e9tica , \nsendo comercializada sob diferentes marcas : Botox  \u00ae, Dysport  \u00ae e Xeomin \u00ae (GOUVEI A \net.al., 2020; SILVA  et. al., 2022 ).  \nO mecanismo de a\u00e7\u00e3o da  TBA  envolve a indu\u00e7\u00e3o de uma paralisia neuromuscular ",
+        "chunk_index": 17,
+        "start_char": 12116,
+        "end_char": 13087,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_18",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "fl\u00e1cida transit\u00f3ria por meio do processo de denerva\u00e7\u00e3o qu\u00edmica. A TB A atua impedindo a libera\u00e7\u00e3o de acetilcolina, um neurotransmissor respons\u00e1vel pela transmiss\u00e3o do impulso \nnervoso para os m\u00fasculos, nas jun \u00e7\u00f5es neuromusculares. Isso resulta na incapacidade dos ",
+        "chunk_index": 18,
+        "start_char": 13087,
+        "end_char": 13352,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_19",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 10 \n \nm\u00fasculos em contrair -se normalmente, levando \u00e0 paralisia tempor\u00e1ria. Essa paralisia \u00e9 fl\u00e1cida, \nou seja, os m\u00fasculos perdem sua capacidade de contra\u00e7\u00e3o, resultando em relaxamento \nmuscular  (REIS  et.al., 2020) . A TBA na \u00e1rea de harmoniza\u00e7\u00e3o facial tem indica\u00e7\u00f5es, \ncontraindica\u00e7\u00f5es e poss\u00edveis intercorr\u00eancias que est\u00e3o elencadas no Quadro 1 . \n \n \n \n \n \n \n \n \nQuadro 1: Principais indica\u00e7\u00f5es, contraindica\u00e7\u00f5es e poss\u00edveis intercorr\u00eancias com o uso da \nToxina Botul\u00ednica Tipo A \nFonte s:  GOUVEIA  et. al., 2020 ; SILVA  et. al., 2022 ; TESTONI,  2023 . \nNos \u00faltimos anos, jovens entre 24 e 30 anos, tem buscado pela aplica\u00e7\u00e3o  da TBA como \nforma de tratamento preventivo para as  rugas est\u00e1ticas , pois a partir dessa idade come\u00e7a o \ndecl\u00ednio dos n\u00edveis de col\u00e1geno e elastina , que s\u00e3o respons\u00e1veis por manter a elasticidade e Indica\u00e7\u00f5es  \nBruxismo  \nSorriso gengival  \nRedu\u00e7\u00e3o de rugas faciais  \nAssimetrias faciais  \nHiperidrose  \nContraindica\u00e7\u00f5es  ",
+        "chunk_index": 19,
+        "start_char": 13352,
+        "end_char": 14315,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_20",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "Alergia ao medicamento e aos componentes  Infec\u00e7\u00e3o no s\u00edtio do bloqueio.  \nGravidez e aleitamento.  \nDoen\u00e7a neuromuscular.  \nDoen\u00e7a autoimune em atividade.  ",
+        "chunk_index": 20,
+        "start_char": 14315,
+        "end_char": 14472,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_21",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 11 \n \nfirmeza da pele . Na fase jovem a face possui um formato de tri\u00e2ngulo invertido, e com o \nenvelhecimento o  formato vai se  tornando quadrado e aparecem as rugas. A utiliza\u00e7\u00e3o de TBA \n\u00e9 um dos procedimentos utilizados para retardar o aparecimento das rugas (LIMA  et. al., \n2023) . \nUma pesquisa realizada por CENGIZ  et al. (2020), foi conduzida para investigar a \nefic\u00e1cia da T BA aplicada em diferentes m\u00fasculos de pacientes com exposi\u00e7\u00e3o gengiv al \nexcessiva e avaliar o retorno ao valor basal de exposi\u00e7\u00e3o gengival. Os resultados indicaram \nque a quantidade m\u00e9dia de gengiva vis\u00edvel no grupo 1 foi de 4,92 mm no in\u00edcio do tratamento \ne 1,92 mm no 15\u00ba dia. No grupo 2, a quantidade m\u00e9dia de gengiva vis\u00edv el foi de 4,58 mm no \nin\u00edcio do tratamento e 2,16 mm no 15\u00ba dia. Em ambos os grupos de tratamento, foi determinado \nque as medi\u00e7\u00f5es no sexto m\u00eas n\u00e3o retornaram aos seus valores iniciais. A diminui\u00e7\u00e3o na ",
+        "chunk_index": 21,
+        "start_char": 14472,
+        "end_char": 15391,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_22",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "apar\u00eancia gengival no grupo 1 foi maior do que no grupo  2. Em ambos os grupos, observou -se que o aumento da satisfa\u00e7\u00e3o dos pacientes foi alto, concluindo que para a corre\u00e7\u00e3o do sorriso \ngengival, a inje\u00e7\u00e3o de TXB  (Toxina Botul\u00ednica do tipo B) \u00e9 considerada um m\u00e9todo alternativo \npor ser eficaz e conservador e ap resentar alta satisfa\u00e7\u00e3o do paciente.  \n \nHiperidrose   \nNa \u00faltima d\u00e9cada, a introdu\u00e7\u00e3o da toxina botul\u00ednica  tipo A no tratamento da hiperidrose \ntem se mostrado  bastante eficaz. A TBA aglutina -se nas termina\u00e7\u00f5es  nervosas das fibras \nsimp\u00e1ticas p\u00f3s-ganglionares que  inervam as gl\u00e2ndulas sudor\u00edparas. Ela ent\u00e3o \u00e9  internalizada \nvia endocitose e depois liberada no  citoplasma axonal. Ao seccionar a prote\u00edna de  membrana \ncelular SNAP -25, necess\u00e1ria para libera\u00e7\u00e3o  da acetilcolina, a toxina impede a libera\u00e7\u00e3o desse  \nneurotransmissor . As gl\u00e2ndulas passam, portanto, a  n\u00e3o receber o est\u00edmulo para a secre\u00e7\u00e3o  \n(DIAS  et. al., 2001). \n \nSorriso gengival  ",
+        "chunk_index": 22,
+        "start_char": 15391,
+        "end_char": 16371,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_23",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "A toxina botul\u00ednica  tipo A  \u00e9 indicada para a corre\u00e7\u00e3o do sorriso  gengival apenas nos casos em que h\u00e1 um excesso de  contra\u00e7\u00e3o dos m\u00fasculos elevadores do l\u00e1bio superior. \u00c9  \nimportante ressaltar que h\u00e1 outros fatores que podem causar o  sorriso gengival, como a \ndimens\u00e3o vertical alta, a  despropor\u00e7\u00e3o  dos dentes anteriores (comprimento/largura), \nhiperplasia  gengival, l\u00e1bio superior curto ou invertido, e nestes casos a  toxina botul\u00ednica n\u00e3o ",
+        "chunk_index": 23,
+        "start_char": 16371,
+        "end_char": 16821,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_24",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 12 \n \ntem indica\u00e7\u00e3o. Quando indicado, o uso  da TBA \u00e9 um m\u00e9todo tempor\u00e1rio que representa  uma \nescolha simples, r\u00e1pida e eficaz para corre\u00e7\u00e3o do sorriso  gengival (RUFINO, 2023).  \n \n\u00c1cido hialur\u00f4nico  \nO \u00e1cido hialur\u00f4nico ( AH) \u00e9 um carboidrato presente nos tecidos conjuntivos  de \nmam\u00edferos, a partir de um polissacar\u00eddeo chamado glicosaminoglicano . Pode ser extra\u00eddo de \nanimais ou obtido atrav\u00e9s da fermenta\u00e7\u00e3o bacteriana . No entanto, a sua presen\u00e7a diminui \nnaturalmente com o envelhecimento, resultando no aparecimento de rugas. Como alternativa, \n\u00e9 poss\u00edvel realizar a aplica\u00e7\u00e3o de preenchedores de AH, que  n\u00e3o causa rejei\u00e7\u00e3o tecidual devido \na sua biocompatibilidade, tem baixa a\u00e7\u00e3o imunog\u00eanica, baixa toxicidade, baixa a\u00e7\u00e3o \ninflamat\u00f3ria, al\u00e9m de ser totalmente biodegrad\u00e1vel  (RUFINO , 2023).  \nOs preenchedores a base de AH possuem consist\u00eancia gelatinosa, alta viscoelasticidade \ne alta capacidade de hidrata\u00e7\u00e3o.  O procedimento \u00e9 minimamente invasivo e quando o produto ",
+        "chunk_index": 24,
+        "start_char": 16821,
+        "end_char": 17810,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_25",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "\u00e9 aplicado induz a migra\u00e7\u00e3o de fibroblastos , prolifera\u00e7\u00e3o celular e a diferencia\u00e7\u00e3o de queratin\u00f3citos, promovendo assim a produ\u00e7\u00e3o de col\u00e1geno tipo 1 Col -1 e um  aumento do pr\u00f3 -\ncol\u00e1geno . Com isso ocorre a reposi\u00e7\u00e3o d o volume perdido de determinadas \u00e1reas da face , \nmelhora visivelmente o contorno do r osto e reduz a flacidez local  (RUFINO , 2023).  \nA seguir as indica\u00e7\u00f5es, contraindica\u00e7\u00f5es e complica\u00e7\u00f5es associadas ao uso de \u00e1cido \nhialur\u00f4nico injet\u00e1vel  (RUFINO, 2023) : \nIndica\u00e7\u00f5es : amenizar o olhar profundo e olheiras; suavizar as rugas perilabiais \n(\u201cc\u00f3digo de barras\u201d); o bigode chin\u00eas e linhas de marionete; fazer reposi\u00e7\u00e3o de \nvolume malar (bochechas) e contorno facial (mand\u00edbula e das t\u00eamporas); \naumentar o volume e contorno labial ; preencher cicatrizes, m\u00e3os magras e \nenrugadas, e flacidez l\u00f3bulo da orelha; elevar a cauda da sobrancelha; projetar \no queixo, entre outros.  \nContraindica\u00e7\u00f5es : portadores de doen\u00e7as autoimunes em atividade como, por ",
+        "chunk_index": 25,
+        "start_char": 17810,
+        "end_char": 18786,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_26",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "exemplo, o L\u00fapus Eritematoso Sist\u00eamico, gr\u00e1vidas, mulheres em processo de amamenta\u00e7\u00e3o, pessoas imunossuprimidas, com alergia a qualquer componente \nda formula\u00e7\u00e3o e com inflama\u00e7\u00e3o ou infec\u00e7\u00e3o no local a ser tratado, n\u00e3o podem \nser submetidas a preenchimento . ",
+        "chunk_index": 26,
+        "start_char": 18786,
+        "end_char": 19045,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_27",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 13 \n \nUm dos procedimentos mais pro curados pelos jovens \u00e9 o aumento dos l\u00e1bios com \npreenchedores de AH , com intuito de melhorar a apar\u00eancia e o volume. Em pacientes mais \nvelhos cria  curvas mais naturais aos l\u00e1bios, que se tornam mais finos com a idade devido \u00e0 \ndiminui\u00e7\u00e3o do col\u00e1geno  e da elastina  (SILVA  et.al., 2023).  \nA utiliza\u00e7\u00e3o do AH para melhorar a  defini\u00e7\u00e3o e volumiza\u00e7\u00e3o do \u00e2ngulo e linha da \nmand\u00edbula tem sido uma escolha entre os jovens, que ap\u00f3s uma boa avalia\u00e7\u00e3o cl\u00ednica  e uma \nt\u00e9cnica bem-sucedida, conseguem um realce para o contorno facial , elevando a autoestima e \nproporcionando um ter\u00e7o inferior mais harm onioso  e sim\u00e9trico  (C\u00c9SAR, 202 3).  \nPara jovens com  que sofrem de alguma altera\u00e7\u00e3o no formato do queixo  e que \napresentem algum tipo de insatisfa\u00e7\u00e3o est\u00e9tica , como o  retrognatismo , o preenchimento de \nmento \u00e9 uma op\u00e7\u00e3o vantajosa e satisfat\u00f3ria em ambos os sexos , com grande impacto positivo \nna harmonia global da face (VIANA,  2023) .   \n \n ",
+        "chunk_index": 27,
+        "start_char": 19045,
+        "end_char": 20036,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_28",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "Peeling  qu\u00edmico   \nDe acordo com FERNANDES  et. al. ( 2018 ), o peeling  qu\u00edmico, tamb\u00e9m chamado de \nresurfacing qu\u00edmico, quimioesfolia\u00e7\u00e3o ou quimiocirurgia , \u00e9 um procedimento que envolve a \naplica\u00e7\u00e3o de agentes c\u00e1usticos na pele, causando uma destrui\u00e7\u00e3o controlada da epiderme e sua \nposterior reepiteliza\u00e7\u00e3o. Este procedimento se tornou popular devido \u00e0 sua capacidade de \nmelhorar a apar\u00eancia da pele danificada por fatores extr\u00ednsecos, intr\u00ednsecos e cicatrizes. \nYOKOMIZO  et. al. ( 2013 ), relatam que os peelings  qu\u00edmicos t\u00eam origens antigas, datadas de \n1550 AC na medicina eg\u00edpcia, com relatos tamb\u00e9m na Gr\u00e9cia e Roma antigas.  \n \nO peeling  provoca uma descama\u00e7\u00e3o controlada da pele e \u00e9 amplamente empregado no \ntratamento de manchas, cicatrizes e rugas finas, sendo apl ic\u00e1vel na face e em outras \u00e1reas \ncorporais. Sua realiza\u00e7\u00e3o requer uma anamnese detalhada do paciente e a devida informa\u00e7\u00e3o \nsobre o per\u00edodo de descama\u00e7\u00e3o . O mecanismo de a\u00e7\u00e3o  consiste em acelerar a esfolia\u00e7\u00e3o da ",
+        "chunk_index": 28,
+        "start_char": 20036,
+        "end_char": 21034,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_29",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "pele, atrav\u00e9s do uso de agente qu\u00edmicos  \u00e1cido s, acelerando a velocidade de renova\u00e7\u00e3o  \u201cturn over\u201d celular . No quadro 2 os principais peelings  utilizados em peles jovens (J\u00daNIOR  et.al., \n2018) : \nQuadro 2: Principais peelings  utilizados em peles jovens  ",
+        "chunk_index": 29,
+        "start_char": 21034,
+        "end_char": 21293,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_30",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 14 \n \nPeeling  de fenol: Um peeling  mais  profund o, utiliza  o fenol para promover a \ndescama\u00e7\u00e3o da pele. Ele \u00e9 mais invasivo  e \u00e9 indicado para pacientes com pele clara, \nrugas profundas e em grande quantidade .  \nPeeling  mand\u00e9lico : Utiliza o \u00e1cido mand\u00e9lico, uma importante subst\u00e2ncia para tratar \nrugas, linhas de express\u00e3o e clarear manchas. Costuma ser mais superficial, promove a \nesfolia\u00e7\u00e3o suave e progressiva da pele.  \nPeeling retin oico: O \u00e1cido retin\u00f3ico  \u00e9 um derivado da vitamina A e, quando aplicado \nno peeling qu\u00edmico, realiza a descama\u00e7\u00e3o superficial da pele, induzindo \u00e0 forma\u00e7\u00e3o de \num novo tecido e tratando queixas como acne, sinais do envelhecimento e manchas \nsuperficiais.  \nFonte s: J\u00daNIOR  et.al., 2018 . \nA seguir as indica\u00e7\u00f5es, contraindica\u00e7\u00f5es e complica\u00e7\u00f5es associadas ao uso de peeling \nqu\u00edmico:  \nIndica\u00e7\u00f5es : Indicado para melhorar a hidrata\u00e7\u00e3o, poros  dilatados, espessura  e \ntextura da pele, fotoenvelhecimento,  crono envelhecimento , pele seborreica, ",
+        "chunk_index": 30,
+        "start_char": 21293,
+        "end_char": 22288,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_31",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "acnes , sequelas , hiperqueratoses, hiperpigmenta\u00e7\u00e3o.  Contraindica\u00e7\u00f5es : Gr\u00e1vidas, lactantes, crian\u00e7as, exposi\u00e7\u00e3o solar recente ou \nfutura, infec\u00e7\u00f5es locais ou ativas, ros\u00e1cea pustulosa, peles extremamente \nsens\u00edveis, erup\u00e7\u00f5es, eritema, neoplasia.  \nComo evidenciado  em muitos estudos  a utiliza\u00e7\u00e3o de peeling em peles jovens  com \nacne ativa e pequenas cicatrizes de acne,  proporciona u ma \u00f3tima melhora, principalmente no \ntratamento da acne e textura da pele , refletindo diretamente na satisfa\u00e7\u00e3o dos pacien tes, bem \ncomo na melhoria da qualidade de vida, demonstrando ser uma op\u00e7\u00e3o de tratamento efetivo e \nseguro  (MENDES  & COSTA, 2023) . \nFios de tra\u00e7\u00e3o  \nOs fios faciais de tra\u00e7\u00e3o s\u00e3o absorv\u00edveis e causam um efeito lifting  imediato, podem \nser na forma de garra ou cone invertido e quando inseridos abaixo da pele  com aux\u00edlio de \nc\u00e2nula ou agulha, fazem uma tra\u00e7\u00e3o e reposicionamento da pele na forma desejada.   S\u00e3o ",
+        "chunk_index": 31,
+        "start_char": 22288,
+        "end_char": 23221,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_32",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "exemplos de fios absorv\u00edveis: fios de poliamida, fios de \u00e1cido poliglic\u00f3lico, e atualmente os fios de \u00e1cido polil\u00e1tico e os fios de polidioxanona (PDO) s\u00e3o os mais utilizados  (ZIROLDO  \net.al., 2021) . ",
+        "chunk_index": 32,
+        "start_char": 23221,
+        "end_char": 23424,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_33",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 15 \n \nDe acordo com  SILVA  et.al. ( 2023 ), a utiliza\u00e7\u00e3o inicial dos fios de PDO era limitada \n\u00e0s suturas absorv\u00edveis em cirurgias oftalmol\u00f3gicas para catarata. No entanto, a partir da d\u00e9cada \nde 80, houve uma expans\u00e3o significativa de seu uso, incluindo procedimentos como o lifting \nfacial e outros trat amentos corporais. A t\u00e9cnica de sutura com fios de PDO come\u00e7ou a ser \ndescrita na mesma d\u00e9cada em que os fios de polipropileno n\u00e3o absorv\u00edveis se tornaram \ndispon\u00edveis. Em 1999, Marlen Sulamanidze obteve a primeira patente mundial para o uso \nest\u00e9tico dos fio s de PDO, marcando um marco importante na hist\u00f3ria da medicina est\u00e9tica.  \nAp\u00f3s a inser\u00e7\u00e3o dos fios, ocorre uma rea\u00e7\u00e3o fibr\u00f3tica com o biomaterial circundante. \nIsso resulta na forma\u00e7\u00e3o de caminhos fibr\u00f3ticos organizados durante a perman\u00eancia do fio e \nap\u00f3s a sua reabsor\u00e7\u00e3o. O efeito de eleva\u00e7\u00e3o nos tecidos fl\u00e1cidos \u00e9 atribu\u00eddo a esses caminhos ",
+        "chunk_index": 33,
+        "start_char": 23424,
+        "end_char": 24339,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_34",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "fibr\u00f3ticos. No entanto, a longevidade desse efeito \u00e9 limitada pela velocidade da biodegrada\u00e7\u00e3o (hidr\u00f3lise) dos fios  (SILVA  et.al., 2022; SILVA  et.al., 2023). \nA seguir as indica\u00e7\u00f5es, contraindica\u00e7\u00f5es e complica\u00e7\u00f5es associadas ao uso de fios de \nsustenta\u00e7\u00e3o  (SILVA  et.al., 2022; SILVA  et.al., 2023): \nIndica\u00e7\u00e3o : Indicado para rejuvenescimento , melhorando rugas, linhas de \nexpress\u00e3o, bigode chin\u00eas, bolsa nos olhos , textura e elasticidade da pele , \neleva\u00e7\u00e3o da sobrancelha (efeito fox eyes) . \nContraindica\u00e7\u00e3o : Gr\u00e1vidas, lactantes, pessoas com doen\u00e7a autoimune, algum \ntipo de infec\u00e7\u00e3o no local de aplica\u00e7\u00e3o, portadores de hepatite ou HIV, al\u00e9m de \npacientes em uso de anticoagulante .   \n \n \n \n\u00c1cido polil\u00e1tico  \nO \u00e1cido, conhecido como Sculptra \u00ae, \u00e9 um bioestimulador utilizado para aprimorar o \ncontorno facial e corrigir \"linhas de marionete\". Essa t\u00e9cnica \u00e9 aplicada em v\u00e1rias \u00e1reas da \nface, al\u00e9m de ser utilizada em regi\u00f5es n\u00e3o faciais, como m\u00e3os, pesco\u00e7o, locais com cicatrizes ",
+        "chunk_index": 34,
+        "start_char": 24339,
+        "end_char": 25335,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_35",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "atr\u00f3ficas (CUNHA  et. al., 2016).  Para M ANTELATO  & SANTOS  (2023 ), a garantia de seguran\u00e7a e efic\u00e1cia dos \nprocedimentos est\u00e9ticos \u00e9 assegurada pela busca por profissionais especializados, fornecendo \naos pacientes a confian\u00e7a necess\u00e1ria para buscar tratamentos. Assim, o cont\u00ednuo ",
+        "chunk_index": 35,
+        "start_char": 25335,
+        "end_char": 25620,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_36",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 16 \n \ndesenvolvimento profissional na \u00e1rea da est\u00e9tica \u00e9 fundamental, beneficiando tanto os \nprofissionais quanto a satisfa\u00e7\u00e3o e seguran\u00e7a dos pacientes.  \nSeu principal mecanismo de a\u00e7\u00e3o se d\u00e1 pela indu\u00e7\u00e3o de um processo inflamat\u00f3rio \natrav\u00e9s da presen\u00e7a de suas microp art\u00edculas do local de aplica\u00e7\u00e3o,  que s\u00e3o reconhecidas como \num corpo estranho, fazendo com que fibroblastos  promovam uma fibroplasia. Com isso, a \nneoforma\u00e7\u00e3o de col\u00e1geno oco rre gradualmente de um m\u00eas at\u00e9 doze meses posteriormente ao \ntratamento com  inje\u00e7\u00e3o de PLLA. Ap\u00f3s cerca de um ano as part\u00edculas s\u00e3o degradadas atrav\u00e9s  \nde hidr\u00f3lise, sendo metabolizadas pelo organismo sem qualquer tipo de dano ou  intoxica\u00e7\u00e3o, \ne eliminas por meio da urina fezes e via respirat\u00f3ria  (CUNHA  et. al., 2016).  \nA seguir as indica\u00e7\u00f5es, contraindica\u00e7\u00f5es e complica\u00e7\u00f5es associadas ao uso de \u00e1cido \npolil\u00e1tico  (CUN HA et. al., 2016) :  \nIndica\u00e7\u00f5es : A indica\u00e7\u00e3o do PLLA se d\u00e1 para casos em que h\u00e1 flacidez da pele, ",
+        "chunk_index": 36,
+        "start_char": 25620,
+        "end_char": 26598,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_37",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "devido ao envelhecimento, bem como para a corre\u00e7\u00e3o de regi\u00f5es que perderam volume devido processos patol\u00f3gicos ou traumas. Al\u00e9m de ter sido muito \nindicado para o tratamento est\u00e9tico facial, o  PLLA tamb\u00e9m pode ser utilizado \nem outras diversas regi\u00f5es anat\u00f4micas do corpo humano, como pesco\u00e7o, regi\u00e3o \ndo peito e abd\u00f4men, bra\u00e7os e n\u00e1degas.  \nContraindica\u00e7\u00f5es : N\u00e3o \u00e9 indicado em pessoas que apresentem processos \ninflamat\u00f3rios e/ou infecciosos no local de aplica\u00e7\u00e3o, colagenoses, altera\u00e7\u00f5es \nem seu quadro de sa\u00fade devido a presen\u00e7a de doen\u00e7as autoimunes e em \nmulheres gestantes sem autoriza\u00e7\u00e3o pr\u00e9via do m\u00e9dico que a acompanha.  \nAs mudan\u00e7as causadas pelo envelhecimento cronol\u00f3gico da pele s\u00e3o o resultado do \nprocesso fisiol\u00f3gico normal, sendo observados afinamentos epid\u00e9rmico, d\u00e9rmico e \nhipod\u00e9rmico que, por sua vez, s\u00e3o agravados pelo fotoenvelhecimento. Al\u00e9m do \nenvelhecimento, v\u00e1rios fatores contribuem para o aparecimento ou agravamento da flacidez, ",
+        "chunk_index": 37,
+        "start_char": 26598,
+        "end_char": 27561,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_38",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "como, por  exemplo, dietas restritivas, emagrecimento, lipoaspira\u00e7\u00f5es e p\u00f3s -gravidez, que favorecem a perda da elasticidade cut\u00e2nea, mesmo em pacientes jovens  (CUNHA  et. al., \n2016).  \n \nPolimetilmetacrilato   \nUm preenchedor permanente que vem sendo muito utilizado \u00e9 o polimetilmetacrilato \n(PMMA) , um pol\u00edmero  em forma de microesferas sint\u00e9ticas, geralmente com um di\u00e2metro de ",
+        "chunk_index": 38,
+        "start_char": 27561,
+        "end_char": 27946,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_39",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 17 \n \n40 a 60 \u03bcm, frequentemente dilu\u00eddas em uma suspens\u00e3o que pode conter col\u00e1geno aproteico \nou cristaloide. A biocompatibilidade e n\u00e3o toxicidade excepcionais do PMMA foram \ncomprovadas em in\u00fameros estudos desde a d\u00e9cada de 1930  (COSTA et.al., 2019) .  \n \nDesde o ano de 2006, o U.S. Food and Drug Administration (FDA) aprov ou a sua \naplica\u00e7\u00e3o , que deve ser realizada  exclusiva mente  por m\u00e9dicos  habilitados . O PMMA est\u00e1 \nautorizado para corre\u00e7\u00e3o de lipodistrofia (s\u00edndrome  rara caracterizada pela altera\u00e7\u00e3o na \ndeposi\u00e7\u00e3o de gordura no corpo, podendo haver aumento, diminui\u00e7\u00e3o ou aus\u00eancia de \ngordura ), provocada pelo uso de antirretrovirais  em pacientes com s\u00edndrome da \nimunodefici\u00eancia adquirida (AIDS) e corre\u00e7\u00e3o volum\u00e9trica fac ial e corporal.  Por persistir no \ntecido por tempo indeterminado, \u00e9 capaz de proporcionar resultados duradouros , por\u00e9m \nrepresenta uma s\u00e9ria preocupa \u00e7\u00e3o quando se fala em seguran\u00e7a e efeitos colaterais a longo \nprazo  (ANVISA.  2022 ). ",
+        "chunk_index": 39,
+        "start_char": 27946,
+        "end_char": 28932,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_40",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "As complica\u00e7\u00f5es s\u00e3o poss\u00edveis em todos os tipos de preenchedores e geralmente s\u00e3o classificadas em agudas e cr\u00f4nicas. Entre as complica\u00e7\u00f5es agudas, destacam -se a embolia \nvascular, necrose tecidual, rea\u00e7\u00f5es al\u00e9rgicas e infec\u00e7\u00f5es. J\u00e1 entre as complica\u00e7\u00f5es cr\u00f4ni cas, \nest\u00e3o a forma\u00e7\u00e3o de granulomas, deformidades e rea\u00e7\u00f5es inflamat\u00f3rias persistentes. \u00c9 \nimportante estar ciente dessas possibilidades ao considerar procedimentos est\u00e9ticos com \npreenchedores, e uma avalia\u00e7\u00e3o cuidadosa do paciente e escolha do produto adeq uado podem \najudar a minimizar esses riscos  (COSTA  et.al., 2019) .  \nFica evidente, portanto, que apenas profissionais m\u00e9dicos qualificados t\u00eam a \ncompet\u00eancia necess\u00e1ria para realizar ou recomendar o uso do produto para preenchimento, \nespecialmente considerando as complica\u00e7\u00f5es previamente mencionadas. A aplica\u00e7\u00e3o desse \npreenchedor em cl\u00ednicas clandestinas, muitas vezes conduzidas por profissionais n\u00e3o ",
+        "chunk_index": 40,
+        "start_char": 28932,
+        "end_char": 29863,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_41",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "autorizados, incluindo sal\u00f5es de beleza, tem levado a consequ\u00eancias cl\u00ednicas desastros as na realidade atual do uso de PMMA no Brasil  (COSTA et.al., 2019) . \nO PMMA \u00e9 indicado para aplica\u00e7\u00e3o na face com finalidades est\u00e9ticas e restauradoras. \nEle \u00e9 frequentemente utilizado para volumiza\u00e7\u00e3o facial em casos de s\u00edndrome da lipodistrofia, \nespecialm ente em pacientes HIV positivos. O Minist\u00e9rio da Sa\u00fade incluiu cirurgias \nrestauradoras para tratar essa s\u00edndrome no sistema de sa\u00fade p\u00fablico, estabelecendo protocolos \nque envolvem a cirurgia e o uso complementar de PMMA para preenchimento de regi\u00f5es \nfaciai s (PCHEPIORKA, 2022) . \n\u00c9 contraindica\u00e7\u00e3o  para os l\u00e1bios , independentemente da concentra\u00e7\u00e3o do produto. Isso \nse deve \u00e0 atividade muscular intensa nessa \u00e1rea, o que aumenta o risco de deslocamento ou ",
+        "chunk_index": 41,
+        "start_char": 29863,
+        "end_char": 30674,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_42",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 18 \n \nmigra\u00e7\u00e3o do produto, podendo causar complica\u00e7\u00f5es como a forma\u00e7\u00e3o de n\u00f3dulos ou rea\u00e7\u00f5es \nde corpo estranho  (PCHEPIORKA, 2022) . \nA remodela\u00e7\u00e3o gl\u00fatea \u00e9 um procedimento m\u00e9dico que requer diversos cuidados \nt\u00e9cnicos ao usar  PMMA . Antes da execu\u00e7\u00e3o do implante l\u00edquido intramuscular, \u00e9 essencial \navaliar a hist\u00f3ria m\u00e9dica do paciente, o plano anat\u00f4mico de aplica\u00e7\u00e3o, o tamanho e a \nlocaliza\u00e7\u00e3o dos m\u00fasculos a serem tratados, a presen\u00e7a de celulite e flacidez, o biotipo do \npaciente, a concentra\u00e7\u00e3o ideal de microesferas por \u00e1rea de inje\u00e7\u00e3o e a  reologia do produto \nPMM A (BORTOLOZO  et.al., 2022) . \nQuando o PMMA \u00e9 injetado no corpo humano, o organismo o reconhece como um \ncorpo estranho e, como resposta natural, busca se proteger. O PMMA possui uma a\u00e7\u00e3o \nbioestimulante, que leva nosso organismo a envo lver o corpo estranho com uma capa de \ncol\u00e1geno e fibrose. Essa rea\u00e7\u00e3o faz parte do processo de defesa do organismo contra ",
+        "chunk_index": 42,
+        "start_char": 30674,
+        "end_char": 31613,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_43",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "subst\u00e2ncias estranhas, e \u00e9 isso que contribui para a forma\u00e7\u00e3o de uma c\u00e1psula ao redor do PMMA injetado  (PESSOA  et.al., 2023) . \n \nPOSS\u00cdVEIS INTERCORR\u00caNCIAS DOS PROCEDIMENTOS EST\u00c9TICOS  \nToxina botul\u00ednica  \n  De acordo com MARTINS  et. al. ( 2022 ), o eritema  \u00e9 atribu\u00eddo a trauma durante a \ninje\u00e7\u00e3o, enquanto equimoses s\u00e3o mais propensas na \u00e1rea periorbit\u00e1ria  devido \u00e0 finura da pele \ne \u00e0 presen\u00e7a de vasos sangu\u00edneos superficiais. A ptose, ou caimento da p\u00e1lpebra, resulta da \naplica\u00e7\u00e3o inadequada da toxina em m\u00fasculos espec\u00edficos, podendo levar a assimetrias faciais. \nAl\u00e9m disso, a aplica\u00e7\u00e3o incorreta nos superc\u00edl ios pode resultar em eleva\u00e7\u00e3o excessiva, \ncausando um arqueamento exagerado da sobrancelha. Essas complica\u00e7\u00f5es destacam a \nimport\u00e2ncia da t\u00e9cnica adequada na administra\u00e7\u00e3o da toxina botul\u00ednica.  \n \n \n\u00c1cido hialur\u00f4nico  \nAs complica\u00e7\u00f5es imediatas e precoces incluem inflama\u00e7\u00e3o, edema, eritema, n\u00f3dulo, ",
+        "chunk_index": 43,
+        "start_char": 31613,
+        "end_char": 32537,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_44",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "hematomas, hipersensibilidade no local e rea\u00e7\u00f5es al\u00e9rgicas, infec\u00e7\u00e3o, enquanto  complica\u00e7\u00f5es tardias podem incluir a temida necrose tecidual. Apesar da possibilidade de complic a\u00e7\u00f5es, a ",
+        "chunk_index": 44,
+        "start_char": 32537,
+        "end_char": 32723,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_45",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 19 \n \nocorr\u00eancia \u00e9 geralmente baixa, com a maioria dos casos sendo leves e eventos graves sendo \nraros  (SANTOS  et.al., 2024). \n \nPeeling  qu\u00edmico  \nDe acordo com YOKOMIZO  et.al. ( 2013 ), as principais  intercorr\u00eancias s\u00e3o:  \n- Altera\u00e7\u00f5es pigmentare s: podem ocorrer hiperpigmenta\u00e7\u00e3o p\u00f3s -inflamat\u00f3ria e \nhipopigmenta\u00e7\u00e3o, sendo esta \u00faltima mais persistente e dif\u00edcil de tratar. Para o tratamento, \npodem ser utilizados corticosteroides t\u00f3picos, tretino\u00edna, hidroquinona ou alfa -hidroxi\u00e1cidos . \n- Infec\u00e7\u00f5es: podem s er de origem bacteriana ( Staphylococcus, Streptococcus , Pseudomonas ), \nviral ( Herpes simples) ou f\u00fangica ( Candida sp ). \u00c9 crucial trat\u00e1 -las de forma agressiva e \nadequada.  \n- Cicatrizes: s\u00e3o mais comuns ap\u00f3s peelings m\u00e9dios ou profundos. O preparo adequado, a \nescolha correta do agente e os cuidados p\u00f3s -operat\u00f3rios podem ajudar na preven\u00e7\u00e3o dessa \ncomplica\u00e7\u00e3o.  \n- Rea\u00e7\u00f5es al\u00e9rgicas: podem ocorrer rea\u00e7\u00f5es al\u00e9rgicas a alguns dos agentes utilizados no \npeeling.  ",
+        "chunk_index": 45,
+        "start_char": 32723,
+        "end_char": 33716,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_46",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "- Milia: s\u00e3o pequenas protuber\u00e2ncias brancas q ue podem surgir na pele ap\u00f3s o procedimento.  - Erup\u00e7\u00f5es acneiformes: podem ocorrer erup\u00e7\u00f5es semelhantes \u00e0 acne ap\u00f3s o peeling.  \n- Linhas de demarca\u00e7\u00e3o: podem surgir linhas vis\u00edveis entre as \u00e1reas tratadas e n\u00e3o tratadas da \npele.  \n- Modifica\u00e7\u00f5es texturais: altera\u00e7\u00f5es na textura da pele, como rugas ou irregularidades.  \n- Eritema persistente: se o eritema persistir por mais de tr\u00eas semanas, pode ser indicativo de \ncicatriza\u00e7\u00e3o hipertr\u00f3fica e deve ser tratado com corticosteroides t\u00f3picos potentes.  \nToxicidade: Pode ocorrer toxicidade com certos agentes, como \u00e1cido salic\u00edlico, resorcina e \nfenol.  \n \n \nFios de sustenta\u00e7\u00e3o  \nDe acordo com SILVA  et.al. ( 2022 ), embora os fios de PDO sejam geralmente \nconsiderados seguros e biocompat\u00edveis, \u00e9 importante reconhecer que complica\u00e7\u00f5es podem ",
+        "chunk_index": 46,
+        "start_char": 33716,
+        "end_char": 34560,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_47",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 20 \n \nsurgir tanto imediatamente ap\u00f3s sua inser\u00e7\u00e3o quanto de forma tardia. As complica\u00e7\u00f5es \nimediatas incluem : assimetria, dist\u00farbios no relevo cut\u00e2neo, forma\u00e7\u00e3o de p\u00e1pulas e inflama\u00e7\u00e3o \nno ponto de inser\u00e7\u00e3o. J\u00e1 as complica\u00e7\u00f5es tardias podem envolver migra\u00e7\u00e3o dos fios, \ndesengajamento, hipercorre\u00e7\u00e3o e cicatriza\u00e7\u00e3o inadequada. \u00c9 fundame ntal que esses \nprocedimentos sejam conduzidos por profissionais capacitados para garantir a seguran\u00e7a e \ntranquilidade do paciente.  \n \n\u00c1cido polil\u00e1tico  \nOs efeitos adversos mais comuns incluem hematomas, equimoses e dor transit\u00f3ria, que \ntendem a desaparecer ap\u00f3s alguns dias. No entanto, complica\u00e7\u00f5es tardias como p\u00e1pulas e \nn\u00f3dulos podem ocorrer. Geralmente, tanto os n\u00f3dulos quanto as p\u00e1pulas desaparecem \nnaturalmente entre 2 e 4 meses ap\u00f3s a aplica\u00e7\u00e3o. Em casos raros de persist\u00eancia dessas \nirregular idades, a resolu\u00e7\u00e3o completa pode demorar at\u00e9 cerca de 2 anos, quando os efeitos do \n\u00e1cido poli -L-l\u00e1ctico cessam (SILVA  & CARDOSO,  2013 ).  \n ",
+        "chunk_index": 47,
+        "start_char": 34560,
+        "end_char": 35555,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_48",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "Polimetilmetacrilato  As complica\u00e7\u00f5es relacionadas ao uso do PMMA variam de acordo com a quantidade \nde produto utilizado, o m\u00e9todo de aplica\u00e7\u00e3o e a compet\u00eancia do profissional. Algumas dessas \ncomplica\u00e7\u00f5es incluem incha\u00e7o e vermelhid\u00e3o, que s\u00e3o comuns ap\u00f3s procedimentos invasivos \ncom o PMMA. Se persistirem, \u00e9 importante informar o m\u00e9dico respons\u00e1vel pelo procediment o. \nOutras complica\u00e7\u00f5es podem surgir devido \u00e0 quantidade excessiva de produto injetado ou a \numa m\u00e1 t\u00e9cnica de inje\u00e7\u00e3o, levando \u00e0 forma\u00e7\u00e3o de n\u00f3dulos e irregularidades na \u00e1rea tratada  \n(PESSOA  et.al., 2023) . \nRea\u00e7\u00f5es al\u00e9rgicas ao pr\u00f3prio PMMA ou a seus componentes, bem como infec\u00e7\u00f5es e \ninflama\u00e7\u00f5es, tamb\u00e9m s\u00e3o poss\u00edveis complica\u00e7\u00f5es. Como em qualquer procedimento injet\u00e1vel, \nh\u00e1 um risco significativo de infec\u00e7\u00e3o, manifestada por sintomas como febre, dor de cabe\u00e7a, \ndor no local da aplica\u00e7\u00e3o, mal -estar, n\u00e1us eas e vermelhid\u00e3o. Al\u00e9m disso, em casos mais graves, ",
+        "chunk_index": 48,
+        "start_char": 35555,
+        "end_char": 36496,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_49",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "grandes volumes de PMMA podem levar \u00e0 necrose dos tecidos devido \u00e0 isquemia, que \u00e9 a falta de oxig\u00eanio nos tecidos. Essas complica\u00e7\u00f5es destacam a import\u00e2ncia de uma avalia\u00e7\u00e3o \ncuidadosa e a escolha de um profissional qualificado para realizar procedimentos com PMMA. \n(PESSOA  et.al., 2023) . \n4- CONSIDERA\u00c7\u00d5ES FINAI S ",
+        "chunk_index": 49,
+        "start_char": 36496,
+        "end_char": 36815,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_50",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 21 \n \nA procur a por procedimentos est\u00e9ticos  vem aumentando  demasiadamente pelo grupo \nde jovens nos \u00faltimos anos. A quest\u00e3o da autoestima, a satisfa\u00e7\u00e3o do bem -estar, sa\u00fade, vem \nse destacando nas pesquisas e artigos p ublicados. A est\u00e9tica , al\u00e9m de visar cuidados, conforto \ne seguran\u00e7a ao paciente, visa tamb\u00e9m buscar uma perspectiva de mudan\u00e7a e contentamento \nda pessoa.  \n Embora os procedimentos est\u00e9ticos possam oferecer melhorias vis\u00edveis na apar\u00eancia, \n\u00e9 crucial estar ciente dos riscos envolvidos, como rea\u00e7\u00f5es adversas, infec\u00e7\u00f5es e insatisfa\u00e7\u00e3o \ncom os resultados. A necessidade de uma abordagem cautelosa e informada ao consi derar tais \ninterven\u00e7\u00f5es, incluindo a consulta a profissionais qualificados e a avalia\u00e7\u00e3o dos riscos versus \nbenef\u00edcios para cada paciente individualmente.  \nNeste contexto , \u00e9 importante destacar a necessidade cont\u00ednua de uma abordagem \u00e9tica \ne hol\u00edstica em rel a\u00e7\u00e3o aos procedimentos est\u00e9ticos, reconhecendo tanto os benef\u00edcios quanto ",
+        "chunk_index": 50,
+        "start_char": 36815,
+        "end_char": 37795,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_51",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "os riscos associados a eles. Somente assim podemos promover uma cultura de autocuidado respons\u00e1vel e ajudar os jovens a cultivar uma autoestima genu\u00edna e duradoura.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+        "chunk_index": 51,
+        "start_char": 37795,
+        "end_char": 37989,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_52",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 22 \n \n \n5- REFER\u00caNCIAS BILBIOGR\u00c1FICAS  \nALGHONAIM, Y.  Impacto da m\u00eddia social nos procedimentos entre Mulheres em Riade, \nAr\u00e1bia Saudita. Cureus . 11(10) e6008, 2019.  \nANJOS, L. A. D.; FERREIRA. Z. A. B.  Sa\u00fade Est\u00e9tica: Impactos Emocionais causados pelo \npadr\u00e3o de beleza i mposto pela sociedade/Aesthetic Health: Emotional Impacts caused by the \nStandard of beauty imposed by Society. DOI : https://doi.org/10.14295/idonline.v15i55.3093.  \nDispon\u00edvel em: https://idon line.emnuvens.com.br/id/article/view/3093 ID on line. Revista de \npsicologia , Bahia , 15.55: 595 -604 p. 2021. Acesso em: 13 nov. 2023.  \nANVISA. Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria. Minist\u00e9rio da Sa\u00fade. Anvisa esclarece \nsobre indica\u00e7\u00f5es do PMMA . 2022. Dispon\u00edvel em: Anvisa esclarece sobre indica\u00e7\u00f5es do \nPMMA \u2014 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria - Anvisa (www.gov.br).  Acesso em: 16 \nnov. 2023.  \nBAGNOLI, H. O valor da beleza . Bravo . 2020. Dispon\u00edvel em: ",
+        "chunk_index": 52,
+        "start_char": 37989,
+        "end_char": 38937,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_53",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "<http://bravo.vc/se asons/s03e01>. Acesso em 9 set. 2023.  BARROS, D.M.  Busca por procedimentos est\u00e9ticos \u00e9 cada vez maior entre jovens. Revista \nVEJA Dispon\u00edvel em: Busca por procedimentos est\u00e9ticos \u00e9 cada vez maior entre os jovens | \nVEJA (abril.com.br).  2022. Acesso em: 6 set. 2023.  \nBODANESE, G. R.; PADILHA, M. E. R. An\u00e1lise Do Conceito De Autoimagem De \nAdolescentes No Contexto Escolar . Psicologia. pt.  2017.  \nBORTOLOZO, F.; TEIXEIRA, E.C.da.; SEIBLITZ, H.R.M.L.de.; MENEZES, H.S.; \nPASCHOAL, A.S.; RINALDI, M.; SOUZA, P.de.  Implante de pmma em gl\u00fateos \u2013avalia\u00e7\u00e3o \npor tomografia computadorizada e outras vari\u00e1veis , International Journal of Development \nResearch , v. 12, n. 04, p. 55325 -55328. DOI: https://doi.org/10.37118/ijdr.24356.04.2022.  \nDispon\u00edvel em: Implante de pmma em gl\u00fateos \u2013avalia\u00e7\u00e3o por tomografia computadorizada e \noutras vari\u00e1veis | International Journal of Development Research (IJDR) (journalijdr.com).  \nAcesso em: 18 ago. 2023.  ",
+        "chunk_index": 53,
+        "start_char": 38937,
+        "end_char": 39908,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_54",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "BRUGIOLO, A. S. S. B.; BRUGIOLO, S.; SANTOS, E. R.; RIBEIRO, P. C. S.; CARNA\u00daBA, F. R. N.;  Insatisfa\u00e7\u00e3o corporal e procedimentos est\u00e9ticos em estudantes \nuniversit\u00e1rios. 2022. Fisioterapia e Pesquisa 28, 449 -454 p.  ",
+        "chunk_index": 54,
+        "start_char": 39908,
+        "end_char": 40126,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_55",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 23 \n \nC\u00c9SAR, K.A.  Preenchimento de mand\u00edbula com \u00e1cido hialur\u00f4nico - relato de caso , 2023.  \nCENGIZ, A.F.; GOYMEN, M. AKCALI, C. Efic\u00e1cia da toxina botul\u00ednica no tratamento do \nsorriso gengival. American Journal of Orthodontics and Dentofacial Orthopedics , v. 158, \nn. 1, p. 50 -58, 2020. DOI: https://doi.org/10.1016/j.ajodo.2019.07.014  .Dispon\u00edvel em: \nEfic\u00e1cia da toxina botul\u00ednica no tratamento do sorriso gengival - ScienceDirect.  Acesso em: \n19 set. 2 023. \nCOSTA, A.C.O.; NEVES, E.N.R.; CASTRO, I.B.de.; NORONHA, M.J.S; MACHADO, \nM.C.; SANTOS, N.M.; MOURA, KURIMORI, K. T., MENDES, M., Milcheski, D. A., \nMONTEIRO, A. A.; GEMPERLI, R. (2019). Complica\u00e7\u00e3o grave do uso irregular do PMMA: \nrelato de caso e a situ a\u00e7\u00e3o brasileira atual. Revista Brasileira de Cirurgia Pl\u00e1stica , 34(01), \n156-162. DOI: http://www.dx.doi.org/10.5935/2177 -1235.2020RBCP0062 .Dispon\u00edvel em: \nRBCP - Severe complication by irregular use of industrial silicone in a transsexual patient: a ",
+        "chunk_index": 55,
+        "start_char": 40126,
+        "end_char": 41105,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_56",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "case report.  Acesso em: 30 set. 2023.  CUNHA, M. G.; DAZA, F., Rezende, F. C.; FILHO, C. D. A.M. Aplica\u00e7\u00e3o de \u00e1cido poli -l-\nl\u00e1tico para o tratamento da flacidez corporal. Surgical & Cosmetic Dermatology , 8(4), 322 -\n327. 2016. Dispon\u00edvel em: Surgical & Cosmetic Dermatology | Search Results \n(surgicalcosmetic.org.br).  Acesso em: 25 set. 2023.  \nDIAS, L.; MAR\u00c7AL, L.; RODRIGUES, M.; ALVES, T.; POND\u00c9, M. Efic\u00e1cia da Toxina \nBotul\u00ednica no Tratamento da Hiperidrose. Revista Neuroci\u00eancias.  9. 10.34024/rnc. \n2001.v9.8911. 2001. DOI : https://doi. org/10.34024/rnc.2001.v9.8911 . Dispon\u00edvel em: \nEfic\u00e1cia da Toxina Botul\u00ednica no Tratamento da Hiperidrose | Revista Neuroci\u00eancias \n(unifesp.br).  Acesso em: 07 ago. 202 3. \nFERRAZ, S.B.; SERRALTA, F.B. O impacto da cirurgia Pl\u00e1stica na autoestima.  Estudos \ne pesquisas em psicologia, UERJ, RJ, v 7, n. 3, p. 557 -569, dez 2007.  \nFERNANDES, A. C. F.; COSTA, L. F.; ASSIS, I. B.; PINTO, L. P. Peeling qu\u00edmico como ",
+        "chunk_index": 56,
+        "start_char": 41105,
+        "end_char": 42070,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_57",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "tratamento est\u00e9ti co. Revista Sa\u00fade em Foco , S\u00e3o Louren\u00e7o / MG 10(1), 2018. Dispon\u00edvel em: 061_PEELING_QUIMICO_COMO_TRATAMENT O_EST\u00c9TICO.pdf (unisepe.com.br).  \nAcesso: 20 dez, 2023.  \nFLORIANI, F.M.;  Autoestima e a autoimagem: a rela\u00e7\u00e3o com a est\u00e9tica . 2010.15 f. \nTrabalho de Conclus\u00e3o de Curso (Est\u00e9tica e Cosm\u00e9tica) - Universidade Privada, Universidade \ndo Vale Itaja\u00ed, Santa Catarina, 2010.  ",
+        "chunk_index": 57,
+        "start_char": 42070,
+        "end_char": 42470,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_58",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 24 \n \nGOUVEIA, V.V.; SINGELIS, T.M.; GUERRA, V.M.; SANTOS, W.S.; VASCONCELOS, \nT.C. Autoimagem e sentimento de constrangimento  Psico, v.36, n.3, pp. 231 -241, \nset./dez.2005.  \nGOUVEIA, B.N.; FERREIRA, L.D.L.P.; SOBRINHO, H.M.R. O uso da toxina botul\u00ed nica em \nprocedimentos est\u00e9ticos.  Revista brasileira militar de ci\u00eancias,  Goi\u00e1s, 6 (16). 2020. DOI: \nhttps://doi.org/10.36414/rbmc.v6i16.72.  Dispon\u00edvel em: \nhttps://rbmc.emnuvens.com.br/rbmc/article/view/72.  Acesso em: 5 mar. 2024.  \nHOSPITAL SANTA M\u00d4NICA. Site do Hospital Santa M\u00f4nica, 2022. Adolescentes e a \nbusca pelo corpo perfeito: quando \u00e9 preciso tratar?  Dispon\u00edvel em: \nhttps://hospitalsantamonica.com.br/adolescentes -e-a-busca -pelo-corpo -perfeito -quando -e-\npreciso -tratar/ . Acesso em: 13 mar\u00e7o de 2024.  \nJ\u00daNIOR, A.A .S.DA.; SILVA, R.P.G.DA.; SILVA, V.L.S.DOS.; PAULINO, E.N. \nRejuvenescimento cut\u00e2neo atrav\u00e9s da utiliza\u00e7\u00e3o de peelings qu\u00edmicos , 2018.  ",
+        "chunk_index": 58,
+        "start_char": 42470,
+        "end_char": 43401,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_59",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "KLEINSCHMIDT, F.L; LIMA, Y.V.N.; LIMA, M.M.; ROMA, A.M. Redes Sociais e a Press\u00e3o Est\u00e9tica: Um Impacto na Sa\u00fade dos Adoles centes  2021.  \nLIMA, M. G. M. D.; RODRIGUES, J. P.; BUTZKE, D. da S. O uso da Toxina  Botul\u00ednica tipo \nA como medida preventiva no aparecimento de rugas est\u00e1ticas: uma revis\u00e3o. Brazilian \nJournal of Health Review , Paran\u00e1, 6(3), 13784 -13799. 2023. DOI:  \nhttps://doi.org/10.34119/bjhrv6n3 -420D.  Dispon\u00edvel em: \nhttps://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/61045 . Acesso em: 20 \nmar. 2024.  \nMANTELATO, C.C.; SANTOS, E.R.F. Procedimentos est\u00e9ticos: a busc a por um padr\u00e3o \nest\u00e9tico pr\u00e9 -estabelecido culturalmente e suas intercorr\u00eancias . 2023.  \nMARTINS, P.B.S; RODRIGUES, E.C.A.A; DE ALC\u00c2NTARA, G.A. Toxina botul\u00ednica Tipo \nA e as suas intercorr\u00eancias no ter\u00e7o superior da face Botulinic toxin Type A and its \nintercu rrences in the upper face third. Brazilian Journal of Health Review , v. 5, n. 2, p. 4873 -",
+        "chunk_index": 59,
+        "start_char": 43401,
+        "end_char": 44363,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_60",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "4888, 2022. DOI:10.34119/bjhrv5n2 -075. Dispon\u00edvel em: Toxina botul\u00ednica Tipo A e as suas intercorr\u00eancias no ter\u00e7o superior da face / Botulinic toxin Type A and its int ercurrences in the \nupper face third | Semantic Scholar. Acesso em: 15 mar. 2024.  \nMENDES, G. O.; COSTA, S. C. C. A utiliza\u00e7\u00e3o de peelings qu\u00edmicos no tratamento da acne \nvulgar: uma revis\u00e3o da literatura.  Revista Multidisciplinar em Sa\u00fade , Bahia, 4(2), 46 -63. ",
+        "chunk_index": 60,
+        "start_char": 44363,
+        "end_char": 44797,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_61",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 25 \n \n2023. https:// doi.org/10.51161/integrar/ rems/3748. Dispon\u00edvel em: \nc2f58cf6d6418745fccc3e4b778e4c1bf88a.pdf (semanticscholar.org).  Acesso em: 12 dez, \n2023.  \nPCHEPIORKA, R. Uso do polimetilmetacrilato (pmma) na harmoniza\u00e7\u00e3o orofacial : \nriscos imediatos e tardios , 2022.  \nPESSOA, F.M.; CORR\u00caA, M.M.; KEMPA, B.F.C. Rea\u00e7\u00e3o imunol\u00f3gica comparada a outros \npreenchedores: uso do pmma para fins est\u00e9ticos: uma revis\u00e3o de l iteratura. TCC -\nBiomedicina , 2023.  \nREIS, L. C.; LUZ, D. U.; da SILVA, A. B. A.; FERNANDES, F.R.; ASSIS, I. B. \nDesvendando o uso da toxina botul\u00ednica na est\u00e9tica e em enfermidades. 2020.  \nRUFINO, Andr\u00e9 Souza et al. Elucidando procedimentos da harmoniza\u00e7\u00e3o oro facial: guia \npr\u00e1tico de toxina botul\u00ednica & \u00e1cido hialur\u00f4nico . 1. ed. Belo Horizonte: FAO UFMG, 2023. \n1 recurso on -line (91 p. ISBN 9788593368660. Dispon\u00edvel em: \nhttps://www.bu.ufmg.br/imagem/00002d/00002df7.pdf. Acesso em: 2 ago. 2023.  ",
+        "chunk_index": 61,
+        "start_char": 44797,
+        "end_char": 45736,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_62",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "SANTOS, R. M. P.; L IMA, A. B. P.; BONIF\u00c1CIO, L. D. M. M. Principais intercorr\u00eancias na est\u00e9tica com o uso do \u00e1cido hialur\u00f4nico.  Revista Brasileira de Ci\u00eancias Biom\u00e9dicas , 5(1), \nE0792024 -1. 2024. DOI: https://doi.org/10.46675/rbcbm.v5i1.79 .Dispon\u00edvel em: Vista do \nPrincipais intercorr\u00eancias na est\u00e9tica com o uso do \u00e1c ido hialur\u00f4nico (rbcbm.com.br)  Acesso \nem: 5 jan. 2024.  \nSANTOS, N.M.L. Padr\u00f5es de beleza impostos \u00e0s mulheres. Revista Cient\u00edfica Eletr\u00f4nica de \nCi\u00eancias Aplicadas da Fait  1 2020: 1 -7. Dispon\u00edvel em: Microsoft Word - 2019 -2 \nPADR\u00c3\u0141ES DE BELEZA IMPOSTOS \u00c3\u2022S MULHERES (revista.inf.br).  Acesso: 15 out, \n2023.  \nSCHULTHEISZ, T. S. V., APRILE M. R.  Autoestima, conceitos correlatos e avalia\u00e7\u00e3o.  \nRevista Equil\u00edbrio Corporal e Sa\u00fade. v.5, n.1, p. 36 -48, 2013. DOI: 10.17921/2176 -\n9524.2013V5N1P%P.  Dispon\u00edvel em: (PDF) AUTOESTIMA, CONCEITOS, \nCORRELATOS E AVALIA\u00c7\u00d5ES | Thais Schultheisz - Academia.edu.  Acesso: 26 set, 2023.  ",
+        "chunk_index": 62,
+        "start_char": 45736,
+        "end_char": 46695,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_63",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "SENNET, R. A beleza da Gr\u00e9cia Antiga ao s\u00e9culo XIX.  Ensinar Hist\u00f3ria . Dispon\u00edvel em: A beleza da Gr\u00e9cia Antiga ao s\u00e9culo XIX (ensinarhistoria.com.br)  Acesso em: ago. 2023.  \nSILVA, R. M. S. F. D.; CARDOSO, G. F. Uso do \u00e1cido poli -L-l\u00e1ctico como restaurador de \nvolume facial. Revista Brasileira de Cirurgia Pl\u00e1stica , 28, 223 -226. 2013, Bras\u00edlia. ",
+        "chunk_index": 63,
+        "start_char": 46695,
+        "end_char": 47047,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_64",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 26 \n \nDispon\u00ed vel em: Uso do \u00e1cido poli -L-l\u00e1ctico como restaurador de volume facial | Rev. bras. cir. \npl\u00e1st;28(2): 223 -226, abr. -jun. 2013. ilus | LILACS (bvsalud.org).  Acesso: 8 set. 2023.  \nSILVA, E. R. D.; PEREIRA, L. D. M.; COSTA, P. D. Toxina botul\u00ednica e suas \nintercorr\u00eancias na est\u00e9tica facial: revis\u00e3o bibliogr\u00e1fica 2022.  \nSILVA, P. M. G. D. Harmoniza\u00e7\u00e3o orofacial: preenchimento labial com \u00e1cido \nhialur\u00f4nico \u2013revis\u00e3o narrativa. 2021.  \nSILVA, L.  C. F.; FOLETTO, G. V.S.; JUNIOR, J. A.N.; SOARES, V. W. H. A.; OLIVEIRA, \nR. C. G. (2023). Fios de sustenta\u00e7\u00e3o de polidioxanona (PDO) e \u00e1cido hialur\u00f4nico para fins \nest\u00e9ticos: revis\u00e3o de literatura.  Research, Society and Development , 12(3), e10312340552 -\ne10312340552. DOI: 10.33448/rsd -v12i3.40552. Dispon\u00edvel em: (PDF) Fios de sustenta\u00e7\u00e3o d e \npolidioxanona (PDO) e \u00e1cido hialur\u00f4nico para fins est\u00e9ticos: revis\u00e3o de literatura \n(researchgate.net).  Acesso em: 24 maio. 2024.  ",
+        "chunk_index": 64,
+        "start_char": 47047,
+        "end_char": 47994,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_65",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "SILVA, S. R.; de SOUZA, M. S.; de SOUZA, D. M. Uso facial de fios de pdo e complica\u00e7\u00f5es p\u00f3s-tratamento est\u00e9tico.  Aesthetic Orofacial Science , 3(3), 63 -71. 2022. \nDOI: 10.51670/aos.v3i3.127.  Dispon\u00edvel em: USO FACIAL DE FIOS DE PDO E \nCOMPLICA\u00c7\u00d5ES P\u00d3S TRATAMENTO EST\u00c9TICO | Semantic Scholar.  Acesso em: 22 \nago. 2023.  \nSOCIEDADE BRASILEIRA DE CIRURGIAS PL\u00c1STICAS. 2011.Dispon\u00edvel em: \nhttp://www2.cirurgiaplast ica.org.br/ . Acesso em 2023.  \nSOUZA, A.M.N.S.C. Impacto do distanciamento social nos cuidados com a sa\u00fade est\u00e9tica.  \nJornal de Ci\u00eancias Biom\u00e9dicas e Sa\u00fade,  2020. Dispon\u00edvel em: IMPACTO DO \nDISTANCIAMENTO SOCIAL NOS CUIDADOS COM A SA\u00daDE EST\u00c9TICA | Souza \n|JORNAL DE CI\u00caNCIAS BIOM\u00c9DICAS E SA\u00daDE (facthus.edu.br).  Acesso: 17 jan., 2024.  \nSOUZA, E. A. de e SILVA, F. A. N. da.  Aspectos Psicol\u00f3gicos da Mulher na Busca Da \nBeleza. Revist a Cient\u00edfica Multidisciplinar N\u00facleo do Conhecimento . Ed. 05, 2 (1) 203 - \n214, S\u00e3o Paulo \u2013 2017.  ",
+        "chunk_index": 65,
+        "start_char": 47994,
+        "end_char": 48950,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_66",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "STREHLAU, V.I.; CLARO, D.P.; NETO, S.A.L. A vaidade impulsiona o consumo de cosm\u00e9ticos e de procedimentos est\u00e9ticos cir\u00fargicos nas mulheres? Uma investiga\u00e7\u00e3o \nexplorat\u00f3ria . Revista de Administra\u00e7\u00e3o  (S\u00e3o Paulo), v. 50, p. 73 -88, 2015. DOI: \n10.5700/rausp1185. Dispon\u00edvel em: A vaidade impulsiona o consumo de cosm\u00e9ticos e de ",
+        "chunk_index": 66,
+        "start_char": 48950,
+        "end_char": 49277,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_67",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": " 27 \n \nprocedimentos est\u00e9tic os cir\u00fargicos nas mulheres? Uma investiga\u00e7\u00e3o explorat\u00f3ria | Revista de \nAdministra\u00e7\u00e3o (usp.br).  Acesso: 02 out, 2023.  \nTESTONI, E.; LINO, H. Intercorr\u00eancias na aplica\u00e7\u00e3o da toxina botul\u00ednica para fins \nest\u00e9ticos. 2023.  \nVIANA, G. G.; Efeito da miomodula\u00e7\u00e3o com  \u00e1cido hialur\u00f4nico em mento. 2023. BWS \nJournal , 6, 1-8. Dispon\u00edvel em: https://bwsjournal.emnuvens.com.br/bwsj/article/view/305 . \nAcesso em: 8 ago. 2023.  \nYOKOMIZO, V. M. F.; BENEMON D, T. M. H., CHISAKI, C.; BENEMOND, P. H. (2013). \nPeelings qu\u00edmicos: revis\u00e3o e aplica\u00e7\u00e3o pr\u00e1tica.  Surgical & cosmetic dermatology , 5(1), 58 -\n68, S\u00e3o Paulo. Dispon\u00edvel em: Peelings qu\u00edmicos: revis\u00e3o e aplica\u00e7\u00e3o pr\u00e1tica | Surg. cosmet. \ndermatol. (Impr.);5(1): 58 -68, jan. -mar. 2013. ilus. | LILACS (bvsalud.org).  Acesso em: 30 \nago. 2023.  \nZIROLDO, S.; FARIAS, A.P.; SETUBAL, M.M; JUNIOR, P.I.P; GON\u00c7ALVES, T.M.C. \nUso de fios facia is de tra\u00e7\u00e3o como um meio para o rejuvenescimento facial \u2013 relato de ",
+        "chunk_index": 67,
+        "start_char": 49277,
+        "end_char": 50266,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      },
+      {
+        "id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba_chunk_68",
+        "document_id": "doc_5ad8a1012d75b36efd808b1c4cbc61ba",
+        "content": "caso. Simmetria Orofacial Harmonizaton in Science.  2021. DOI 2. 8 -20. 10.24077/2021;26 -820. Acesso em: 26 set. 2023.  \n \n ",
+        "chunk_index": 68,
+        "start_char": 50266,
+        "end_char": 50391,
+        "token_count": null,
+        "metadata": {
+          "tags": [
+            "estetica",
+            "harmonizacao",
+            "facial"
+          ],
+          "author": "Jo\u00e3o Paulo R Lima",
+          "department": "ODONTO"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+groq>=0.4.0
+motor>=3.3.0
+pymongo>=4.6.0
+
+# HTTP client
+httpx>=0.25.2
+
+# RAG dependencies
+# Embedding models
+sentence-transformers>=2.2.2
+torch>=2.1.0  # Required by sentence-transformers
+transformers>=4.35.0
+
+# Vector database
+chromadb>=0.4.17
+
+# Document processing
+PyPDF2>=3.0.1  # For PDF processing
+pdfplumber>=0.9.0  # Alternative PDF processor (more robust)
+python-docx>=0.8.11  # For DOCX files
+python-multipart>=0.0.6  # For file uploads
+
+# Additional utilities
+numpy>=1.24.0
+tiktoken>=0.5.1  # For token counting (OpenAI tokenizer)
+
+# Development dependencies (optional)
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
+black>=23.11.0
+flake8>=6.1.0
+
+# Optional: for better PDF processing
+# pdfminer.six>=20221105
+# pymupdf>=1.23.0
+
+# Optional: for DOCX processing with more features
+# python-docx2txt>=0.8
+
+# Optional: for advanced text processing
+# spacy>=3.7.0
+# nltk>=3.8.0

@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: harmonizacao_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin123
+      MONGO_INITDB_DATABASE: harmonizacao
+    volumes:
+      - C:/projects/db/harmonizacao:/data/db
+      - ./init-scripts:/docker-entrypoint-initdb.d:ro
+    networks:
+      - harmonizacao_network
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 40s
+
+  harmonizacao_app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: harmonizacao_api
+    restart: unless-stopped
+    ports:
+      - "8002:8002"
+    environment:
+      - MONGODB_URL=mongodb://admin:admin123@mongodb:27017/harmonizacao?authSource=admin
+      - MONGODB_DATABASE=harmonizacao
+      - MONGODB_COLLECTION_CLIENTES=clientes
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    networks:
+      - harmonizacao_network
+    volumes:
+      - ../app:/app/app:ro
+
+networks:
+  harmonizacao_network:
+    driver: bridge
