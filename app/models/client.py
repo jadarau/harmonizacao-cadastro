@@ -3,6 +3,8 @@ from typing import List, Optional
 from pydantic import BaseModel, Field, validator
 from datetime import datetime
 from .endereco import Endereco
+from .origem import OrigemLead
+from .classificacao import ClassificacaoLead
 
 class Cliente(BaseModel):
     """Modelo para representar um cliente"""
@@ -10,7 +12,8 @@ class Cliente(BaseModel):
     telefone: List[str] = Field(default_factory=list, description="Lista de telefones do cliente")
     email: List[str] = Field(default_factory=list, description="Lista de emails do cliente")
     nascimento: str = Field(..., description="Data de nascimento (formato: YYYY-MM-DD)")
-    origem: Optional[str] = Field(None, description="Origem do cliente (ex: website, indicação, etc.)")
+    origem: OrigemLead = Field(default=OrigemLead.get_default(), description="Origem do cliente (ex: website, indicação, etc.)")
+    classificacao: ClassificacaoLead = Field(default=ClassificacaoLead.get_default(), description="Classificação do lead (frio, morno, quente)")
     enderecos: List[Endereco] = Field(default_factory=list, description="Lista de endereços do cliente")
 
     @validator("telefone")
@@ -59,6 +62,7 @@ class Cliente(BaseModel):
                 "email": ["joao@email.com", "joao.silva@empresa.com"],
                 "nascimento": "1990-05-15",
                 "origem": "website",
+                "classificacao": "morno",
                 "enderecos": [
                     {
                         "logradouro": "Rua das Flores",
