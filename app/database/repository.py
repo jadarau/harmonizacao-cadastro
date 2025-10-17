@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import List, Optional
+from typing import List, Optional, Dict, Any, Tuple
 from datetime import datetime
 from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorDatabase
@@ -39,28 +39,84 @@ class ClienteRepository:
             return None
     
     async def get_by_email(self, email: str) -> Optional[Cliente]:
-        """Busca um cliente pelo email"""
+        """Busca um cliente pelo email e retorna como modelo."""
         cliente_data = await self.collection.find_one({"email": {"$in": [email]}})
-        
         if cliente_data:
             cliente_data.pop("_id", None)
             cliente_data.pop("created_at", None)
             cliente_data.pop("updated_at", None)
             return Cliente(**cliente_data)
-        
         return None
     
     async def get_by_telefone(self, telefone: str) -> Optional[Cliente]:
-        """Busca um cliente pelo telefone"""
+        """Busca um cliente pelo telefone e retorna como modelo."""
         cliente_data = await self.collection.find_one({"telefone": {"$in": [telefone]}})
-        
         if cliente_data:
             cliente_data.pop("_id", None)
             cliente_data.pop("created_at", None)
             cliente_data.pop("updated_at", None)
             return Cliente(**cliente_data)
-        
         return None
+
+    async def find_by_email_or_phone(
+        self,
+        emails: List[str],
+        telefones: List[str]
+    ) -> Optional[Dict[str, Any]]:
+        """Busca um cliente por qualquer email ou telefone e retorna documento bruto com id.
+
+        Retorna um dicionário contendo 'id' (str) e os demais campos do cliente.
+        """
+        query = {"$or": []}
+        if emails:
+            query["$or"].append({"email": {"$in": emails}})
+        if telefones:
+            query["$or"].append({"telefone": {"$in": telefones}})
+        if not query["$or"]:
+            return None
+
+        cliente_data = await self.collection.find_one(query)
+        if not cliente_data:
+            return None
+
+        cliente_data["id"] = str(cliente_data.pop("_id"))
+        return cliente_data
+
+    async def update_add_fields(
+        self,
+        cliente_id: str,
+        emails_to_add: List[str] | None = None,
+        telefones_to_add: List[str] | None = None,
+        enderecos_to_add: List[Dict[str, Any]] | None = None,
+        extra_set: Dict[str, Any] | None = None,
+    ) -> bool:
+        """Atualiza um cliente adicionando itens únicos às listas e setando campos adicionais.
+
+        Usa $addToSet para emails/telefones/enderecos e $set para outros campos.
+        """
+        try:
+            updates: Dict[str, Any] = {"$set": {"updated_at": datetime.utcnow()}}
+            if extra_set:
+                updates["$set"].update(extra_set)
+
+            add_ops: Dict[str, Any] = {}
+            if emails_to_add:
+                add_ops.setdefault("email", {"$each": []})["$each"].extend(emails_to_add)
+            if telefones_to_add:
+                add_ops.setdefault("telefone", {"$each": []})["$each"].extend(telefones_to_add)
+            if enderecos_to_add:
+                add_ops.setdefault("enderecos", {"$each": []})["$each"].extend(enderecos_to_add)
+
+            if add_ops:
+                updates["$addToSet"] = {k: v for k, v in add_ops.items()}
+
+            result = await self.collection.update_one(
+                {"_id": ObjectId(cliente_id)},
+                updates
+            )
+            return result.modified_count > 0 or result.matched_count > 0
+        except Exception:
+            return False
     
     async def update(self, cliente_id: str, cliente: Cliente) -> bool:
         """Atualiza um cliente existente"""

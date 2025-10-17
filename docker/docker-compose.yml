@@ -27,7 +27,7 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    container_name: harmonizacao_api
+    container_name: harmonizacao_api_cadastro
     restart: unless-stopped
     ports:
       - "8002:8002"

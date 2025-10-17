@@ -1,7 +1,15 @@
 """Test configuration and fixtures."""
+import os
+import sys
 import pytest
 import asyncio
 from typing import AsyncGenerator
+
+# Garantir que o diretório raiz esteja no PYTHONPATH
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT_DIR not in sys.path:
+    sys.path.insert(0, ROOT_DIR)
+
 from fastapi.testclient import TestClient
 from app.main import app
 
