@@ -1,7 +1,8 @@
 from __future__ import annotations
-from typing import List, Optional
+from typing import List, Optional, Union
 from pydantic import BaseModel, Field, validator
 from datetime import datetime
+import unicodedata
 from .endereco import Endereco
 from .origem import OrigemLead
 from .classificacao import ClassificacaoLead
@@ -15,6 +16,75 @@ class Cliente(BaseModel):
     origem: OrigemLead = Field(default=OrigemLead.get_default(), description="Origem do cliente (ex: website, indicação, etc.)")
     classificacao: ClassificacaoLead = Field(default=ClassificacaoLead.get_default(), description="Classificação do lead (frio, morno, quente)")
     enderecos: List[Endereco] = Field(default_factory=list, description="Lista de endereços do cliente")
+
+    @staticmethod
+    def _normalize_text(value: str) -> str:
+        """Normaliza texto para comparação: remove acentos, baixa caixa e remove espaços/pontuação."""
+        nfkd = unicodedata.normalize("NFKD", value)
+        no_accents = "".join(ch for ch in nfkd if not unicodedata.combining(ch))
+        lowered = no_accents.lower()
+        # remove caracteres não alfanuméricos
+        return "".join(ch for ch in lowered if ch.isalnum())
+
+    @validator("origem", pre=True)
+    def validate_origem(cls, v: Union[str, OrigemLead, None]):
+        if v is None or v == "":
+            return OrigemLead.get_default()
+        if isinstance(v, OrigemLead):
+            return v
+        if isinstance(v, str):
+            key = cls._normalize_text(v)
+            mapping = {
+                # Preencheu Formulário
+                "preencheuformulario": OrigemLead.PREENCHEU_FORMULARIO,
+                "formulario": OrigemLead.PREENCHEU_FORMULARIO,
+                "formulario": OrigemLead.PREENCHEU_FORMULARIO,
+                "form": OrigemLead.PREENCHEU_FORMULARIO,
+                # Indicação
+                "indicacao": OrigemLead.INDICACAO,
+                "indicacao": OrigemLead.INDICACAO,
+                "indic": OrigemLead.INDICACAO,
+                # Website
+                "website": OrigemLead.WEBSITE,
+                "site": OrigemLead.WEBSITE,
+                "web": OrigemLead.WEBSITE,
+                # Rede Social
+                "redesocial": OrigemLead.REDE_SOCIAL,
+                "instagram": OrigemLead.REDE_SOCIAL,
+                "facebook": OrigemLead.REDE_SOCIAL,
+                "tiktok": OrigemLead.REDE_SOCIAL,
+                # Clicou em Anúncio
+                "clicouemanuncio": OrigemLead.CLICOU_ANUNCIO,
+                "anuncio": OrigemLead.CLICOU_ANUNCIO,
+                "ads": OrigemLead.CLICOU_ANUNCIO,
+                # Campanha de Email
+                "campanhadeemail": OrigemLead.CAMPANHA_EMAIL,
+                "email": OrigemLead.CAMPANHA_EMAIL,
+                "mailing": OrigemLead.CAMPANHA_EMAIL,
+                # Eventos Profissionais
+                "eventosprofissionais": OrigemLead.EVENTOS_PROFISSIONAIS,
+                "evento": OrigemLead.EVENTOS_PROFISSIONAIS,
+                "feira": OrigemLead.EVENTOS_PROFISSIONAIS,
+                # Parcerias
+                "parcerias": OrigemLead.PARCERIAS,
+                "parceria": OrigemLead.PARCERIAS,
+                "parceiro": OrigemLead.PARCERIAS,
+                # Outra Origem
+                "outraorigem": OrigemLead.OUTRA_ORIGEM,
+                "outra": OrigemLead.OUTRA_ORIGEM,
+                "outro": OrigemLead.OUTRA_ORIGEM,
+                "outros": OrigemLead.OUTRA_ORIGEM,
+            }
+            if key in mapping:
+                return mapping[key]
+            # fallback: tenta corresponder exatamente algum valor do Enum sem normalizar
+            for item in OrigemLead:
+                if v == item.value:
+                    return item
+            # último recurso: manter padrão
+            return OrigemLead.get_default()
+        # tipos inesperados delegam para Pydantic (vai falhar com 422 se inaceitável)
+        return v
 
     @validator("telefone")
     def validate_telefone(cls, v: List[str]):
