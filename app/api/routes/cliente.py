@@ -28,11 +28,13 @@ async def receber_formulario(
         incoming = cliente.dict()
         incoming["classificacao_rag"] = classificacao
 
-        # Busca cliente por email ou telefone
-        existing = await repository.find_by_email_or_phone(
-            emails=incoming.get("email", []),
-            telefones=incoming.get("telefone", [])
-        )
+        # Busca cliente apenas por email (telefone/endereço não bloqueiam criação)
+        existing: Optional[Cliente] = None
+        for e in (incoming.get("email", []) or []):
+            found = await repository.get_by_email(e)
+            if found:
+                existing = found
+                break
 
         created = False
         cliente_id: Optional[str] = None
@@ -43,7 +45,13 @@ async def receber_formulario(
             created = True
         else:
             # Existe: unificar emails/telefones e endereços
-            cliente_id = existing["id"]
+            # recuperar id bruto via listagem rápida para o email
+            # como get_by_email retorna modelo, precisamos achar o documento
+            raw = await repository.find_by_email_or_phone(
+                emails=incoming.get("email", []),
+                telefones=[]
+            )
+            cliente_id = raw["id"] if raw else None
 
             # Normaliza conjuntos para evitar duplicatas
             existing_emails = set(existing.get("email", []) or [])
@@ -84,7 +92,7 @@ async def receber_formulario(
             result_cliente = {**incoming}
         else:
             # merge: existentes + novos
-            result_cliente = {**existing}
+            result_cliente = {**existing.dict()}
             result_cliente.pop("id", None)
             result_cliente["email"] = sorted(list(set(existing.get("email", []) or []) | set(incoming.get("email", []) or [])))
             result_cliente["telefone"] = sorted(list(set(existing.get("telefone", []) or []) | set(incoming.get("telefone", []) or [])))

@@ -52,7 +52,7 @@ class AppSettings(BaseSettings):
 
     # Kafka settings
     kafka_enabled: bool = Field(default=False, env="KAFKA_ENABLED")
-    kafka_bootstrap_servers: str = Field(default="localhost:9092", env="KAFKA_BOOTSTRAP_SERVERS")
+    kafka_bootstrap_servers: str = Field(default="localhost:19092", env="KAFKA_BOOTSTRAP_SERVERS")
     kafka_topic_cliente: str = Field(default="clientes", env="KAFKA_TOPIC_CLIENTE")
 
     @field_validator("cors_allow_origins", mode="before")
