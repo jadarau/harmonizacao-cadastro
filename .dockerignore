@@ -36,3 +36,15 @@ README.md
 Dockerfile
 docker-compose.yml
 .dockerignore
+data/
+data/**
+tests/
+__pycache__/
+*.ipynb
+.gitignore
+dist/
+build/
+*.egg-info/
+server.py
+simple_test.py
+pytest.ini

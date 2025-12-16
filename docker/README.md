@@ -36,6 +36,12 @@ cd docker
 docker-compose up -d harmonizacao_app
 ```
 
+#### **Subir Apenas o Kafka (Redpanda)**
+```powershell
+cd docker
+docker-compose up -d kafka
+```
+
 #### **Parar Todos os Serviços**
 ```powershell
 cd docker
@@ -59,6 +65,9 @@ docker-compose logs -f mongodb
 
 # Apenas API
 docker-compose logs -f harmonizacao_app
+
+# Apenas Kafka
+docker-compose logs -f kafka
 ```
 
 ### Scripts Automatizados
@@ -88,6 +97,7 @@ docker-compose up --build -d
 
 - Docker Desktop instalado e rodando
 - GROQ_API_KEY válida
+- (Opcional) Kafka habilitado (já incluso via Redpanda no docker-compose)
 
 ## 🏗️ Arquitetura
 
@@ -171,6 +181,9 @@ docker-compose logs -f
 # Ver logs de serviço específico
 docker-compose logs -f mongodb
 docker-compose logs -f harmonizacao_app
+
+# Logs do Kafka (Redpanda)
+docker-compose logs -f kafka
 
 # Ver logs das últimas N linhas
 docker-compose logs --tail=50 mongodb
@@ -335,11 +348,17 @@ MONGODB_COLLECTION_CLIENTES=clientes
 # API (opcional)
 ENABLE_CORS=true
 CORS_ALLOW_ORIGINS=["*"]
+
+# Kafka (opcional)
+KAFKA_ENABLED=true
+KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+KAFKA_TOPIC_CLIENTE=clientes
 ```
 
 ### Portas
 - **API**: 8002 (configurável no docker-compose.yml)
 - **MongoDB**: 27017 (configurável no docker-compose.yml)
+ - **Kafka**: 9092 (broker), 9644 (admin - Redpanda)
 
 ## 🗃️ Persistência de Dados
 

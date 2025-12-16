@@ -1,4 +1,3 @@
-version: '3.8'
 
 services:
   mongodb:
@@ -23,11 +22,11 @@ services:
       retries: 5
       start_period: 40s
 
-  harmonizacao_app:
+  harmonizacao_cadastro_app:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    container_name: harmonizacao_api
+    container_name: harmonizacao_api_cadastro
     restart: unless-stopped
     ports:
       - "8002:8002"
@@ -36,13 +35,34 @@ services:
       - MONGODB_DATABASE=harmonizacao
       - MONGODB_COLLECTION_CLIENTES=clientes
       - GROQ_API_KEY=${GROQ_API_KEY}
+      - KAFKA_ENABLED=true
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+      - KAFKA_TOPIC_CLIENTE=clientes
     depends_on:
       mongodb:
         condition: service_healthy
+      kafka:
+        condition: service_started
     networks:
       - harmonizacao_network
     volumes:
       - ../app:/app/app:ro
+  
+  kafka:
+    image: redpandadata/redpanda:latest
+    container_name: harmonizacao_kafka
+    command:
+      - redpanda start --overprovisioned --smp 1 --memory 512M --reserve-memory 0M --node-id 0
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:19092
+      - --advertise-kafka-addr internal://kafka:9092,external://localhost:19092
+      - --rpc-addr 0.0.0.0:33145
+      - --advertise-rpc-addr kafka:33145
+    ports:
+      - "9092:9092"
+      - "19092:19092"
+      - "9644:9644"
+    networks:
+      - harmonizacao_network
 
 networks:
   harmonizacao_network:

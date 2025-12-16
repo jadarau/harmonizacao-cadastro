@@ -50,6 +50,11 @@ class AppSettings(BaseSettings):
         env="ALLOWED_FILE_EXTENSIONS"
     )
 
+    # Kafka settings
+    kafka_enabled: bool = Field(default=False, env="KAFKA_ENABLED")
+    kafka_bootstrap_servers: str = Field(default="localhost:19092", env="KAFKA_BOOTSTRAP_SERVERS")
+    kafka_topic_cliente: str = Field(default="clientes", env="KAFKA_TOPIC_CLIENTE")
+
     @field_validator("cors_allow_origins", mode="before")
     def parse_cors_allow_origins(cls, v: Union[str, List[str], None]) -> List[str]:
         if v is None:

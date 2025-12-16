@@ -1,7 +1,7 @@
 """RAG schemas for API requests and responses."""
 from __future__ import annotations
 from typing import List, Optional, Dict, Any
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, validator
 from app.models.document import DocumentStatus, SearchResult
 
 
@@ -68,3 +68,37 @@ class DocumentDeleteResponse(BaseModel):
     document_id: str
     deleted: bool
     message: str
+
+
+# ----------------------------
+# RAG Chat Schemas
+# ----------------------------
+
+class RAGChatRequest(BaseModel):
+    """Request schema for RAG-enhanced chat."""
+    query: str
+    # LLM params (fallback to service defaults if None)
+    model: Optional[str] = None
+    temperature: Optional[float] = Field(0.7, ge=0.0, le=2.0)
+    max_tokens: Optional[int] = Field(None, ge=1)
+    # RAG controls
+    use_rag: bool = True
+    max_context_chunks: int = Field(5, ge=1, le=50)
+    min_relevance_score: float = Field(0.0, ge=0.0, le=1.0)
+    # Streaming toggle (endpoint pode sobrescrever)
+    stream: Optional[bool] = False
+
+    @validator("query")
+    def validate_query(cls, v: str) -> str:
+        if not v or not v.strip():
+            raise ValueError("query must not be empty")
+        return v.strip()
+
+
+class RAGChatResponse(BaseModel):
+    """Response schema for RAG-enhanced chat with sources."""
+    response: str
+    sources: List[SearchResult] = Field(default_factory=list)
+    context_used: bool = False
+    model_used: Optional[str] = None
+    processing_time_seconds: float = 0.0
